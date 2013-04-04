@@ -1,0 +1,14 @@
+// <ul>
+#menu-footer {
+  margin-bottom: 1em;
+  
+  li {
+    @include inline-block;
+    padding: 10px;
+  }
+  
+  a {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
