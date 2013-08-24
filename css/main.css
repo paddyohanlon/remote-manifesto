@@ -246,6 +246,10 @@ table {
   border-spacing: 0;
 }
 
+img[src*="http://www.gravatar.com"] {
+  border-radius: 80px;
+}
+
 .highlight {
   background: #ffffff;
 }
