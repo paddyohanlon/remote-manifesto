@@ -1,0 +1,23 @@
+// <div>
+.wrapper {
+  margin: 0 auto;
+  max-width: prem(700px);
+  padding: 0 prem(20px);
+}
+
+@media only screen and (min-width: $break-large) {
+  aside {
+
+    &.digression {
+      margin: prem(-6px) prem(-309px) 0 0;
+      float: right;
+      width: prem(269px);
+    }
+
+    &.tangent {
+      margin: prem(-6px) 0 0 prem(-309px);
+      float: left;
+      width: prem(269px);
+    }
+  }
+}

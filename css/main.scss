@@ -1,6 +1,16 @@
 @import 'normalize';
+@import 'breakpoints';
+@import 'helpers';
+@import 'color';
 
+@import 'layout';
+@import 'typography';
+@import 'header';
 @import 'gravatar';
 
 @import 'syntax';
 @import 'h5bp-print';
+
+body {
+  color: $color-text;
+}

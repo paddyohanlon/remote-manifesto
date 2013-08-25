@@ -1,3 +1,4 @@
 name: The Remote Manifesto
 markdown: redcarpet
 pygments: true
+exclude: [main.scss, config.rb]

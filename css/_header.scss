@@ -1,0 +1,15 @@
+// <h1> logo
+header > h1 {
+  font-size: prem(29px);
+  line-height: prem(33px);
+  margin: prem(30px) 0 0 0;
+  @include type-subheading
+}
+
+// <h2> subheading
+header > h2 {
+  font-size: prem(16px);
+  line-height: prem(24px);
+  margin-top: 0;
+  @include type-italic;
+}

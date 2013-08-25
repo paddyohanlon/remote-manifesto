@@ -1,3 +1,7 @@
-img[src*="http://www.gravatar.com"] {
-  border-radius: 80px;
+img[src*='http://www.gravatar.com'] {
+  border-radius: prem(80px);
+  float: left;
+  margin-left: prem(-120px);
+  position: relative;
+  top: prem(-17px);
 }
