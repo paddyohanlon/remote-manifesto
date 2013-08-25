@@ -2,14 +2,43 @@
 header > h1 {
   font-size: prem(29px);
   line-height: prem(33px);
-  margin: prem(30px) 0 0 0;
-  @include type-subheading
+  margin: prem(20px) 0 0 0;
+  position: relative;
+  text-align: center;
+  @include type-subheading;
+  
+  @media only screen and (min-width: $break-small) {
+    margin-top: prem(30px);
+    text-align: left;
+  }
+  
+  a {
+    @media only screen and (min-width: $break-small) {
+      display: block;
+      margin-left: prem(100px);
+    }
+    
+    @media only screen and (min-width: $break-medium-large) {
+      margin-left: 0;
+    }
+  }
 }
 
 // <h2> subheading
 header > h2 {
+  color: $color-subtle;
   font-size: prem(16px);
   line-height: prem(24px);
   margin-top: 0;
+  text-align: center;
   @include type-italic;
+  
+  @media only screen and (min-width: $break-small) {
+    margin-left: prem(100px);
+    text-align: left;
+  }
+  
+  @media only screen and (min-width: $break-medium-large) {
+    margin-left: 0;
+  }
 }

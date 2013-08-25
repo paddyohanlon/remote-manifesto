@@ -1,7 +1,19 @@
 img[src*='http://www.gravatar.com'] {
-  border-radius: prem(80px);
-  float: left;
-  margin-left: prem(-120px);
-  position: relative;
-  top: prem(-17px);
+  border-radius: prem(40px);
+  display: block;
+  height: prem(80px);
+  margin: 0 auto prem(13px) auto;
+  width: prem(80px);
+  
+  @media only screen and (min-width: $break-small) {
+    margin-bottom: 0;
+    position: absolute;
+    top: prem(-17px);
+  }
+  
+  @media only screen and (min-width: $break-medium-large) {
+    float: left;
+    margin: 0 0 0 prem(-120px);
+    position: relative;
+  }
 }

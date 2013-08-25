@@ -1,0 +1,8 @@
+a, a:link, a:visited {
+  color: $color-brand;
+  text-decoration: none;
+  @include transition(color, .3s, ease-in-out);
+}
+a:hover, a:focus, a:active {
+  color: $color-hover;
+}
