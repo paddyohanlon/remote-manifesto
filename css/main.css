@@ -60,6 +60,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
+  font-size: 100%;
 }
 
 /**
@@ -579,20 +580,6 @@ header > h2 {
     float: right;
     text-align: right;
     width: 31.25rem;
-  }
-}
-
-img[src*='http://www.gravatar.com'] {
-  border-radius: 2.5rem;
-  display: block;
-  height: 3.75rem;
-  margin: 0 auto 0.8125rem auto;
-  width: 3.75rem;
-}
-@media only screen and (min-width: 35em) {
-  img[src*='http://www.gravatar.com'] {
-    display: inline;
-    margin-bottom: 0;
   }
 }
 

@@ -36,16 +36,3 @@ header > h2 {
     width: prem(500px);
   }
 }
-
-img[src*='http://www.gravatar.com'] {
-  border-radius: prem(40px);
-  display: block;
-  height: prem(60px);
-  margin: 0 auto prem(13px) auto;
-  width: prem(60px);
-  
-  @media only screen and (min-width: $break-small) {
-    display: inline;
-    margin-bottom: 0;
-  }
-}
