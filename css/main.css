@@ -410,6 +410,15 @@ a:hover, a:focus, a:active {
 }
 
 body {
+  -webkit-font-feature-settings: "liga","dlig";
+  -moz-font-feature-settings: "liga=1, dlig=1";
+  -moz-font-feature-settings: "liga","dlig";
+  -ms-font-feature-settings: "liga","dlig";
+  -o-font-feature-settings: "liga","dlig";
+  font-feature-settings: "liga","dlig";
+}
+
+body {
   font-size: .75em;
 }
 @media only screen and (min-width: 43.75em) {
