@@ -397,7 +397,7 @@ Examples:
   }
 }
 a, a:link, a:visited {
-  color: #7d9e21;
+  color: #111111;
   text-decoration: none;
   -webkit-transition: color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out;
@@ -406,7 +406,7 @@ a, a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #6c891d;
+  color: #040404;
 }
 
 body {
@@ -533,6 +533,19 @@ aside > p {
   }
 }
 
+header {
+  zoom: 1;
+  padding: 1.25rem 1.25rem 0 1.25rem;
+  position: relative;
+}
+header:before, header:after {
+  content: "";
+  display: table;
+}
+header:after {
+  clear: both;
+}
+
 header > h1 {
   font-size: 1.8125rem;
   line-height: 2.0625rem;
@@ -544,19 +557,10 @@ header > h1 {
 }
 @media only screen and (min-width: 35em) {
   header > h1 {
-    margin-top: 1.875rem;
+    float: left;
+    margin-top: 0;
     text-align: left;
-  }
-}
-@media only screen and (min-width: 35em) {
-  header > h1 a {
-    display: block;
-    margin-left: 6.25rem;
-  }
-}
-@media only screen and (min-width: 63.875em) {
-  header > h1 a {
-    margin-left: 0;
+    width: 18.75rem;
   }
 }
 
@@ -572,35 +576,23 @@ header > h2 {
 }
 @media only screen and (min-width: 35em) {
   header > h2 {
-    margin-left: 6.25rem;
-    text-align: left;
-  }
-}
-@media only screen and (min-width: 63.875em) {
-  header > h2 {
-    margin-left: 0;
+    float: right;
+    text-align: right;
+    width: 31.25rem;
   }
 }
 
 img[src*='http://www.gravatar.com'] {
   border-radius: 2.5rem;
   display: block;
-  height: 5rem;
+  height: 3.75rem;
   margin: 0 auto 0.8125rem auto;
-  width: 5rem;
+  width: 3.75rem;
 }
 @media only screen and (min-width: 35em) {
   img[src*='http://www.gravatar.com'] {
+    display: inline;
     margin-bottom: 0;
-    position: absolute;
-    top: -1.0625rem;
-  }
-}
-@media only screen and (min-width: 63.875em) {
-  img[src*='http://www.gravatar.com'] {
-    float: left;
-    margin: 0 0 0 -7.5rem;
-    position: relative;
   }
 }
 
@@ -988,6 +980,34 @@ img[src*='http://www.gravatar.com'] {
     page-break-after: avoid;
   }
 }
+@-webkit-viewport {
+  width: device-width;
+}
+
+@-moz-viewport {
+  width: device-width;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+@-o-viewport {
+  width: device-width;
+}
+
+@viewport {
+  width: device-width;
+}
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 body {
   color: #333333;
 }

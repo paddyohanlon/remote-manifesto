@@ -1,3 +1,9 @@
+header {
+  @include group;
+  padding: prem(20px) prem(20px) 0 prem(20px);
+  position: relative;
+}
+
 // <h1> logo
 header > h1 {
   font-size: prem(29px);
@@ -8,19 +14,10 @@ header > h1 {
   @include type-subheading;
   
   @media only screen and (min-width: $break-small) {
-    margin-top: prem(30px);
+    float: left;
+    margin-top: 0;
     text-align: left;
-  }
-  
-  a {
-    @media only screen and (min-width: $break-small) {
-      display: block;
-      margin-left: prem(100px);
-    }
-    
-    @media only screen and (min-width: $break-medium-large) {
-      margin-left: 0;
-    }
+    width: prem(300px);
   }
 }
 
@@ -34,11 +31,21 @@ header > h2 {
   @include type-italic;
   
   @media only screen and (min-width: $break-small) {
-    margin-left: prem(100px);
-    text-align: left;
+    float: right;
+    text-align: right;
+    width: prem(500px);
   }
+}
+
+img[src*='http://www.gravatar.com'] {
+  border-radius: prem(40px);
+  display: block;
+  height: prem(60px);
+  margin: 0 auto prem(13px) auto;
+  width: prem(60px);
   
-  @media only screen and (min-width: $break-medium-large) {
-    margin-left: 0;
+  @media only screen and (min-width: $break-small) {
+    display: inline;
+    margin-bottom: 0;
   }
 }

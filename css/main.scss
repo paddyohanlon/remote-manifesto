@@ -7,10 +7,25 @@
 @import 'links';
 @import 'typography';
 @import 'header';
-@import 'gravatar';
 
 @import 'syntax';
 @import 'h5bp-print';
+
+// Windows 8 viewport fix
+// http://trentwalton.com/2013/01/16/windows-phone-8-viewport-fix/
+@-webkit-viewport{width:device-width}
+@-moz-viewport{width:device-width}
+@-ms-viewport{width:device-width}
+@-o-viewport{width:device-width}
+@viewport{width:device-width}
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+ }
 
 body {
   color: $color-text;
