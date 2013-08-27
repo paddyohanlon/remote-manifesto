@@ -398,7 +398,7 @@ Examples:
   }
 }
 a, a:link, a:visited {
-  color: #111111;
+  color: #333333;
   text-decoration: none;
   -webkit-transition: color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out;
@@ -407,7 +407,7 @@ a, a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #040404;
+  color: #373737;
 }
 
 body {
@@ -536,7 +536,7 @@ aside > p {
 
 header {
   zoom: 1;
-  padding: 1.25rem 1.25rem 0 1.25rem;
+  padding: 1.0625rem 1.25rem 0 1.25rem;
   position: relative;
 }
 header:before, header:after {
@@ -546,17 +546,16 @@ header:before, header:after {
 header:after {
   clear: both;
 }
-
 header > h1 {
   font-size: 1.8125rem;
   line-height: 2.0625rem;
-  margin: 1.25rem 0 0 0;
+  margin: 0 0 0.125rem 0;
   position: relative;
   text-align: center;
   font-family: warnock-pro, georgia, sans-serif;
-  font-weight: 600;
+  font-weight: 400;
 }
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 40em) {
   header > h1 {
     float: left;
     margin-top: 0;
@@ -564,9 +563,14 @@ header > h1 {
     width: 18.75rem;
   }
 }
-
+header > h1 a, header > h1 a:link, header > h1 a:visited {
+  color: #a5a29e;
+}
+header > h1 a:hover, header > h1 a:focus, header > h1 a:active {
+  color: #6f572d;
+}
 header > h2 {
-  color: #666666;
+  color: #a5a29e;
   font-size: 1rem;
   line-height: 1.5rem;
   margin-top: 0;
@@ -575,12 +579,18 @@ header > h2 {
   font-style: italic;
   font-weight: 300;
 }
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 40em) {
   header > h2 {
     float: right;
     text-align: right;
-    width: 31.25rem;
+    width: 16.25rem;
   }
+}
+header > h2 b {
+  display: block;
+  font-family: warnock-pro, georgia, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .highlight {
@@ -996,5 +1006,6 @@ header > h2 {
 }
 
 body {
+  background: #fffaf6;
   color: #333333;
 }

@@ -1,38 +1,53 @@
 header {
   @include group;
-  padding: prem(20px) prem(20px) 0 prem(20px);
+  padding: prem(17px) prem(20px) 0 prem(20px);
   position: relative;
-}
-
-// <h1> logo
-header > h1 {
-  font-size: prem(29px);
-  line-height: prem(33px);
-  margin: prem(20px) 0 0 0;
-  position: relative;
-  text-align: center;
-  @include type-subheading;
   
-  @media only screen and (min-width: $break-small) {
-    float: left;
-    margin-top: 0;
-    text-align: left;
-    width: prem(300px);
+  // <h1> logo
+  & > h1 {
+    font-size: prem(29px);
+    line-height: prem(33px);
+    margin: 0 0 prem(2px) 0;
+    position: relative;
+    text-align: center;
+    @include type-copy;
+    
+    @media only screen and (min-width: $break-small) {
+      float: left;
+      margin-top: 0;
+      text-align: left;
+      width: prem(300px);
+    }
+    
+    a, a:link, a:visited {
+      color: $color-faded;
+    }
+    
+    a:hover, a:focus, a:active {
+      color: $color-brand;
+    }
   }
-}
-
-// <h2> subheading
-header > h2 {
-  color: $color-subtle;
-  font-size: prem(16px);
-  line-height: prem(24px);
-  margin-top: 0;
-  text-align: center;
-  @include type-italic;
   
-  @media only screen and (min-width: $break-small) {
-    float: right;
-    text-align: right;
-    width: prem(500px);
+  // <h2> subheading
+  & > h2 {
+    color: darken($color-faded,0%);
+    font-size: prem(16px);
+    line-height: prem(24px);
+    margin-top: 0;
+    text-align: center;
+    @include type-italic;
+
+    @media only screen and (min-width: $break-small) {
+      float: right;
+      text-align: right;
+      width: prem(260px);
+    }
+    
+    // “by Paddy O’Hanlon”
+    b {
+      display: block;
+      @include type-copy;
+      font-style: normal;
+    }
   }
 }

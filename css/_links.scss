@@ -1,5 +1,5 @@
 a, a:link, a:visited {
-  color: $color-brand;
+  color: $color-text;
   text-decoration: none;
   @include transition(color, .3s, ease-in-out);
 }
