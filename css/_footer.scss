@@ -1,0 +1,52 @@
+// <footer>
+#footer {
+  background: #F0E8E0;
+  margin-top: prem(80px);
+  padding: prem(32px) 0 prem(20px) 0;
+  position: relative;
+  
+  p {
+    margin-bottom: prem(24px);
+    font-size: prem(16px);
+    line-height: prem(30px);
+    text-indent: 0;
+  }
+  
+  .wrapper {
+    @include group;
+  }
+  
+  figure {
+    text-align: center;
+    padding-bottom: prem(20px);
+    width: 100%;
+    
+    @media only screen and (min-width: $break-small) {
+      float: left;
+      padding-right: prem(40px);
+      width: 25%;
+    }
+  }
+  
+  article {
+    width: 100%;
+    
+    @media only screen and (min-width: $break-small) {
+      float: left;
+      padding-right: prem(40px);
+      width: 75%;
+    }
+  }
+}
+
+img[src*='http://www.gravatar.com'] {
+  border-radius: prem(80px);
+  height: prem(120px);
+  width: prem(120px);
+  
+  @media only screen and (min-width: $break-small) {
+    border-radius: prem(80px) prem(6px) prem(6px) prem(80px);
+    height: auto;
+    width: 100%;
+  }
+}

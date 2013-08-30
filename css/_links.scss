@@ -6,3 +6,11 @@ a, a:link, a:visited {
 a:hover, a:focus, a:active {
   color: $color-hover;
 }
+
+p,
+ul,
+ol {
+  a, a:link, a:visited {
+    text-decoration: underline;
+  }
+}
