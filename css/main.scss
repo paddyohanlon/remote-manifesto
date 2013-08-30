@@ -9,6 +9,8 @@
 @import 'header';
 @import 'footer';
 
+@import 'custom-posts';
+
 @import 'syntax';
 @import 'h5bp-print';
 
@@ -31,4 +33,8 @@
 body {
   background: #fffaf6;
   color: $color-text;
+}
+
+.return-to-text {
+  @include visually-hidden;
 }

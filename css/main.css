@@ -160,13 +160,6 @@ q {
 }
 
 /**
- * Address inconsistent and variable font size in all browsers.
- */
-small {
-  font-size: 80%;
-}
-
-/**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
 sub,
@@ -397,6 +390,11 @@ Examples:
     width: 16.8125rem;
   }
 }
+aside b {
+  margin-left: -0.875rem;
+  float: left;
+}
+
 a, a:link, a:visited {
   color: #333333;
   text-decoration: none;
@@ -407,7 +405,7 @@ a, a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #373737;
+  color: #6f572d;
 }
 
 p a, p a:link, p a:visited,
@@ -418,6 +416,15 @@ ol a,
 ol a:link,
 ol a:visited {
   text-decoration: underline;
+}
+p sup a, p sup a:link, p sup a:visited,
+ul sup a,
+ul sup a:link,
+ul sup a:visited,
+ol sup a,
+ol sup a:link,
+ol sup a:visited {
+  text-decoration: none;
 }
 
 body {
@@ -430,6 +437,7 @@ body {
   -o-font-feature-settings: "liga","dlig";
   font-feature-settings: "liga","dlig";
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 400;
 }
 @media only screen and (min-width: 47.5em) {
@@ -445,19 +453,21 @@ h1 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin-bottom: 0.35211em;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 700;
 }
 
 h2 {
-  font-size: 2.375em;
+  font-size: 3em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  line-height: 1.28947em;
-  /* unwrap lists for values that have multiple list of values such as text-shadow */
-  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  line-height: 1.27083em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 0.86842em 0em 0.78947em 0em;
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  margin: 0.6875em 0em 0.625em 0em;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 600;
 }
 
@@ -469,6 +479,7 @@ h3 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin: 1.0625em 0em;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 600;
 }
 
@@ -480,6 +491,7 @@ h4 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   margin: 0.76923em 0em;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 600;
 }
 
@@ -488,9 +500,21 @@ p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   line-height: 1.66667em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  text-indent: 3.33333em;
+  text-indent: 1.66667em;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 400;
+}
+
+small {
+  display: block;
+  text-align: right;
+  margin-top: 2.5rem;
+  font-family: warnock-pro, georgia, sans-serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 h1 + p,
@@ -521,19 +545,20 @@ blockquote {
   margin-bottom: 0.75758em;
   text-indent: 0;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 600;
 }
 
 aside > p {
   font-size: 1.125rem;
   line-height: 1.875rem;
-  margin: 2.0625rem 0 3.0625rem 0;
+  margin: 2.0625rem 2.5rem 3.0625rem 2.5rem;
   text-indent: 0;
   font-family: warnock-pro, georgia, sans-serif;
   font-style: italic;
   font-weight: 300;
 }
-@media only screen and (min-width: 47.5em) {
+@media only screen and (min-width: 40em) {
   aside > p {
     margin: 2.0625rem 5rem 3.0625rem 5rem;
   }
@@ -569,6 +594,7 @@ header > h1 {
   position: relative;
   text-align: center;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 400;
 }
 @media only screen and (min-width: 40em) {
@@ -605,6 +631,7 @@ header > h2 {
 header > h2 b {
   display: block;
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 400;
   font-style: normal;
 }
@@ -616,10 +643,13 @@ header > h2 b {
   position: relative;
 }
 #footer p {
-  margin-bottom: 1.5rem;
-  font-size: 1rem;
+  font-size: 1.125rem;
   line-height: 1.875rem;
+  margin: 0 0 1.875rem 0;
   text-indent: 0;
+  font-family: warnock-pro, georgia, sans-serif;
+  font-style: italic;
+  font-weight: 300;
 }
 #footer .wrapper {
   zoom: 1;
@@ -653,6 +683,11 @@ header > h2 b {
     width: 75%;
   }
 }
+#footer article p:last-child {
+  font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
 
 img[src*='http://www.gravatar.com'] {
   border-radius: 5rem;
@@ -667,6 +702,15 @@ img[src*='http://www.gravatar.com'] {
   }
 }
 
+@media only screen and (min-width: 87.75em) {
+  #emtm {
+    margin-top: -8.0625rem;
+  }
+
+  #speakeasy {
+    margin-top: -13rem;
+  }
+}
 .highlight {
   background: #ffffff;
 }
@@ -1082,4 +1126,15 @@ img[src*='http://www.gravatar.com'] {
 body {
   background: #fffaf6;
   color: #333333;
+}
+
+.return-to-text {
+  position: absolute;
+  margin: -1px;
+  padding: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
 }

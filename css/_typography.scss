@@ -1,15 +1,18 @@
 @mixin type-display {
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 700;
 }
 
 @mixin type-subheading {
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 600;
 }
 
 @mixin type-copy {
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 400;
 }
 
@@ -44,9 +47,9 @@ h1 {
 }
 
 h2 {
-  $font-size: 38px;
+  $font-size: 48px;
   font-size: pem($font-size);
-  @include scale(line-height, 49px, $font-size);
+  @include scale(line-height, 61px, $font-size);
   @include scale(margin, 33px 0px 30px 0px, $font-size);
   @include type-subheading;
 }
@@ -71,8 +74,17 @@ p {
   $font-size: 24px;
   font-size: pem($font-size);
   @include scale(line-height, 40px, $font-size);
-  @include scale(text-indent, 80px, $font-size);
+  @include scale(text-indent, 40px, $font-size);
   @include type-copy;
+}
+
+// Pubdate
+small {
+  display: block;
+  text-align: right;
+  margin-top: prem(40px);
+  @include type-italic;
+  @include type-size-small;
 }
 
 h1,
@@ -106,11 +118,11 @@ aside {
   & > p {
     font-size: prem(18px);
     line-height: prem(30px);
-    margin: prem(33px) 0 prem(49px) 0;
+    margin: prem(33px) prem(40px) prem(49px) prem(40px);
     text-indent: 0;
     @include type-italic;
     
-    @media only screen and (min-width: $break-medium) {
+    @media only screen and (min-width: $break-small) {
       margin: prem(33px) prem(80px) prem(49px) prem(80px);
     }
     
