@@ -5,7 +5,7 @@ date:   2013-08-24 10:20:00
 categories: typeography design jekyll
 ---
 
-<p class="lead">I’m excited to announce my new, web and design, writing home, <em>The Remote Manifesto</em>.</p>
+<p class="lead">I’m excited to launch my new, web and design, writing home, <em>The Remote Manifesto</em>.</p>
 
 <p>While creating this site, I realised the dominant logic-driven part of my mind is inclined to over focus on technique and technology in search of the “right” design. That often leads to restrictions which are limiting instead of useful, because of being introduced to early. Things like doing layout to a certain grid, or following a typographic scale religiously, before allowing myself improvise freely.</p>
 
