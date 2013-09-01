@@ -72,9 +72,14 @@ h4 {
 
 p {
   $font-size: 24px;
+  @include scale(text-indent, 40px, $font-size);
+}
+
+p,
+ul li {
+  $font-size: 24px;
   font-size: pem($font-size);
   @include scale(line-height, 40px, $font-size);
-  @include scale(text-indent, 40px, $font-size);
   @include type-copy;
 }
 
@@ -130,4 +135,11 @@ aside {
       margin: prem(10px) 0 0 0;
     }
   }
+}
+
+// <div>
+.asterism {
+  margin-top: prem(77px);
+  font-size: 2em;
+  text-align: center;
 }

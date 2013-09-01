@@ -2,7 +2,7 @@
 layout: post
 title:  "Good Design is more than Technique and Technology"
 date:   2013-08-24 10:20:00
-categories: typeography design jekyll
+categories: typography design jekyll
 ---
 
 <p class="lead">I’m excited to launch my new, web and design, writing home, <em>The Remote Manifesto</em>.</p>
@@ -19,7 +19,7 @@ categories: typeography design jekyll
 
 <h3>Why The Remote Manifesto?</h3>
 
-<p>Since 2012, I have lived in and worked from Ireland, South Africa, Bulgaria, Denmark, Slovenia, the United States, and Russia<sup><a href="#emtm" id="footnote1">&#8224;</a></sup>. I’m writing from Kaliningrad, Russia, moving to Spain in two weeks—for five months—and moving to Belgium after that.</p>
+<p>Since 2012, I have lived in and worked from Ireland, South Africa, Bulgaria, Denmark, Slovenia, the United States, and Russia. <sup><a href="#emtm" id="footnote1">&#8224;</a></sup> I’m writing from Kaliningrad, Russia, moving to Spain in two weeks—for five months—and moving to Belgium after that.</p>
 
 <aside class="digression" id="emtm"><p><b>&#8224;</b> The travel is mostly due to happily following Lidiya around while she undertakes her amazing masters programme, <a href="http://www.emtmmaster.net/">EMTM</a>.</p> <a class="return-to-text" href="#footnote1" id="emtm">Return to the main text</a></aside>
 

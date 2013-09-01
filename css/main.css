@@ -405,7 +405,7 @@ a, a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #6f572d;
+  color: #513f21;
 }
 
 p a, p a:link, p a:visited,
@@ -496,11 +496,15 @@ h4 {
 }
 
 p {
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  text-indent: 1.66667em;
+}
+
+p,
+ul li {
   font-size: 1.5em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   line-height: 1.66667em;
-  /* unwrap lists for values that have multiple list of values such as text-shadow */
-  text-indent: 1.66667em;
   font-family: warnock-pro, georgia, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -569,6 +573,12 @@ aside > p {
   }
 }
 
+.asterism {
+  margin-top: 4.8125rem;
+  font-size: 2em;
+  text-align: center;
+}
+
 header {
   zoom: 1;
   padding: 1.6875rem 1.25rem 0 1.25rem;
@@ -609,7 +619,7 @@ header > h1 a, header > h1 a:link, header > h1 a:visited {
   color: #a5a29e;
 }
 header > h1 a:hover, header > h1 a:focus, header > h1 a:active {
-  color: #6f572d;
+  color: #513f21;
 }
 header > h2 {
   color: #a5a29e;
