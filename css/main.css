@@ -661,10 +661,14 @@ header > h2 b {
 }
 
 #footer {
-  background: #F0E8E0;
+  background: #f0e8e0;
+  color: #666666;
   margin-top: 5rem;
   padding: 2rem 0 1.25rem 0;
   position: relative;
+}
+#footer a, #footer a:link, #footer a:visited {
+  color: #666666;
 }
 #footer p {
   font-size: 1.125rem;
@@ -706,6 +710,14 @@ header > h2 b {
     padding-right: 2.5rem;
     width: 75%;
   }
+}
+#footer article p:nth-last-child(2) {
+  color: #333333;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
+  font-weight: 400;
 }
 #footer article p:last-child {
   font-family: warnock-pro, georgia, sans-serif;

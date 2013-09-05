@@ -1,9 +1,14 @@
 // <footer>
 #footer {
-  background: #F0E8E0;
+  background: $color-footer-bg;
+  color: $color-subtle;
   margin-top: prem(80px);
   padding: prem(32px) 0 prem(20px) 0;
   position: relative;
+  
+  a, a:link, a:visited {
+    color: $color-subtle;
+  }
   
   p {
     font-size: prem(18px);
@@ -38,8 +43,17 @@
       width: 75%;
     }
     
-    p:last-child {
-      @include type-copy;
+    p {
+      &:nth-last-child(2) {
+        color: $color-text;
+        font-size: prem(24px);
+        line-height: prem(40px);
+        @include type-copy;
+      }
+      
+      &:last-child {
+        @include type-copy;
+      }
     }
   }
 }
