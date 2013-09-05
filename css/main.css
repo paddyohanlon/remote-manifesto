@@ -414,7 +414,10 @@ ul a:link,
 ul a:visited,
 ol a,
 ol a:link,
-ol a:visited {
+ol a:visited,
+small a,
+small a:link,
+small a:visited {
   text-decoration: underline;
 }
 p sup a, p sup a:link, p sup a:visited,
@@ -423,7 +426,10 @@ ul sup a:link,
 ul sup a:visited,
 ol sup a,
 ol sup a:link,
-ol sup a:visited {
+ol sup a:visited,
+small sup a,
+small sup a:link,
+small sup a:visited {
   text-decoration: none;
 }
 
@@ -465,7 +471,7 @@ h2 {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 0.6875em 0em 0.625em 0em;
+  margin: 0.6875em 0em 0em 0em;
   font-family: warnock-pro, georgia, sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -519,6 +525,14 @@ small {
   font-weight: 300;
   font-size: 1rem;
   line-height: 1.5rem;
+}
+small + p {
+  text-indent: 0;
+}
+
+h2 + small {
+  margin: 0 0 2em 0;
+  text-align: left;
 }
 
 h1 + p,

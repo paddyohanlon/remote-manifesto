@@ -50,7 +50,7 @@ h2 {
   $font-size: 48px;
   font-size: pem($font-size);
   @include scale(line-height, 61px, $font-size);
-  @include scale(margin, 33px 0px 30px 0px, $font-size);
+  @include scale(margin, 33px 0px 0px 0px, $font-size);
   @include type-subheading;
 }
 
@@ -90,6 +90,15 @@ small {
   margin-top: prem(40px);
   @include type-italic;
   @include type-size-small;
+  
+  & + p {
+    text-indent: 0;
+  }
+}
+
+h2 + small {
+  margin: 0 0 2em 0;
+  text-align: left;
 }
 
 h1,

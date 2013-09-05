@@ -4,6 +4,7 @@ layout: default
 
 <article class="post">
   <h2>{{ page.title }}</h2>
+  <small>Written from {{ page.location }}</small>
   {{ content }}
-  <small>Published on {{ page.date | date_to_string }}</small>
+  <small>Published by <a href="#footer">Paddy</a> on {{ page.date | date_to_string }}</small>
 </article>

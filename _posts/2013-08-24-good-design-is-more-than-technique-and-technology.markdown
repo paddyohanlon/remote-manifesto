@@ -13,7 +13,7 @@ categories: typography design jekyll
 
 <h3>Correcting Course</h3>
 
-<p>I then gave myself the freedom to try some weird things—most of which were scrapped—and to create a visual style I feel at home with.</p>
+<p>To reset my creative compass and clear it of interference, I gave myself the freedom to try some weird things—most of which were binned—and to create a visual style I feel at home with.</p>
 
 <p>I like the new design, with a hint of healthy discontent—It’s very simple. As with many personal sites I will self-validate by saying it will be a constant work in progress. For now a version is complete which I’m looking forward to continuing to write on.</p>
 
