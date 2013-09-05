@@ -19,7 +19,7 @@ categories: reference
 <li><a href="http://ia.net/blog/responsive-typography-the-basics/">Responsive Typography: The Basics</a>, by Oliver Reichenstein</li>
 </ul>
 
-<aside class="digression" id="typecast-vertical-rhythm"><p><b>&#8224;</b><a href="http://typecast.com/">Typecast</a> makes vertical rhythm so much easier now. They wrote a related post <a href="http://typecast.com/blog/4-simple-steps-to-vertical-rhythm">4 Simple Steps to Vertical Rhythm</a></p> <a class="return-to-text" href="#footnote3" id="emtm">Return to the main text</a></aside>
+<aside class="digression" id="typecast-vertical-rhythm"><p><b>&#8224;</b><a href="http://typecast.com/">Typecast</a> makes vertical rhythm so much easier now. They wrote a related post, <a href="http://typecast.com/blog/4-simple-steps-to-vertical-rhythm">4 Simple Steps to Vertical Rhythm</a>. <a class="return-to-text" href="#footnote3" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
 <h3>Books</h3>
 

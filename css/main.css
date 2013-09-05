@@ -1138,7 +1138,10 @@ body {
   color: #333333;
 }
 
-.return-to-text {
+a.return-to-text, a:link.return-to-text, a:visited.return-to-text {
+  text-decoration: none;
+}
+a.return-to-text b, a:link.return-to-text b, a:visited.return-to-text b {
   position: absolute;
   margin: -1px;
   padding: 0;
