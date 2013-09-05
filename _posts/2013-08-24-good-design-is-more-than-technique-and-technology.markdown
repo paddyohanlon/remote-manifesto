@@ -2,7 +2,8 @@
 layout: post
 title:  "Good Design is more than Technique and Technology"
 date:   2013-08-24 10:20:00
-categories: typography design jekyll
+categories: creative-process
+location: Kaliningrad, Russia
 ---
 
 <p class="lead">I’m excited to launch my new, web and design, writing home, <em>The Remote Manifesto</em>.</p>

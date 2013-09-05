@@ -2,7 +2,7 @@
 layout: post
 title:  "Web Typography Resources"
 date:   2013-09-01 18:00:00
-categories: reference
+categories: typography
 location: Kaliningrad, Russia
 ---
 
