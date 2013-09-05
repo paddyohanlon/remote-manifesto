@@ -2,7 +2,7 @@
 layout: post
 title:  "Web Typography Resources"
 date:   2013-09-01 18:00:00
-categories: web typography reference
+categories: reference
 ---
 
 <p>This is a collection of web typography resources I’ve found useful, some of which I return to regularly. I gathered them from Evernote, bookmarks, bookshelf, and brain for my own convenience and ongoing addition.</p>
