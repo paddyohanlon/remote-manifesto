@@ -35,12 +35,10 @@ body {
   color: $color-text;
 }
 
-a, a:link, a:visited {
-  &.return-to-text {
-    text-decoration: none;
-    
-    b {
-      @include visually-hidden;
-    }
+article {
+  img {
+    border-radius: 2px;
+    margin: pem(40px) 0;
+    max-width: 100%;
   }
 }

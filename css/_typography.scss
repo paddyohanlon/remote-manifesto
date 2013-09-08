@@ -105,7 +105,9 @@ h1,
 h2,
 h3,
 h4,
-.lead {
+.lead,
+.fleuron,
+figure {
   & + p {
     text-indent: 0;
   }
@@ -130,6 +132,7 @@ blockquote {
 
 aside {
   & > p {
+    color: $color-subtle;
     font-size: prem(18px);
     line-height: prem(30px);
     margin: prem(33px) prem(40px) prem(49px) prem(40px);
@@ -143,6 +146,10 @@ aside {
     @media only screen and (min-width: $break-large) {
       margin: prem(10px) 0 0 0;
     }
+    
+    a, a:link, a:visited {
+      color: $color-subtle;
+    }
   }
 }
 
@@ -151,4 +158,18 @@ aside {
   margin-top: prem(77px);
   font-size: 2em;
   text-align: center;
+}
+
+// <div>
+.fleuron {
+  margin-top: prem(40px);
+  font-size: 3em;
+  text-align: center;
+}
+
+figcaption {
+  color: $color-subtle;
+  margin: pem(-30px) 0 pem(40px) 0;
+  text-align: center;
+  @include type-italic;
 }

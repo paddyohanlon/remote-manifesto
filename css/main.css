@@ -433,6 +433,20 @@ small sup a:visited {
   text-decoration: none;
 }
 
+a.return-to-text, a:link.return-to-text, a:visited.return-to-text {
+  text-decoration: none;
+}
+a.return-to-text b, a:link.return-to-text b, a:visited.return-to-text b {
+  position: absolute;
+  margin: -1px;
+  padding: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
+}
+
 body {
   color: #333333;
   font-size: .75em;
@@ -539,7 +553,9 @@ h1 + p,
 h2 + p,
 h3 + p,
 h4 + p,
-.lead + p {
+.lead + p,
+.fleuron + p,
+figure + p {
   text-indent: 0;
 }
 
@@ -568,6 +584,7 @@ blockquote {
 }
 
 aside > p {
+  color: #666666;
   font-size: 1.125rem;
   line-height: 1.875rem;
   margin: 2.0625rem 2.5rem 3.0625rem 2.5rem;
@@ -586,11 +603,29 @@ aside > p {
     margin: 0.625rem 0 0 0;
   }
 }
+aside > p a, aside > p a:link, aside > p a:visited {
+  color: #666666;
+}
 
 .asterism {
   margin-top: 4.8125rem;
   font-size: 2em;
   text-align: center;
+}
+
+.fleuron {
+  margin-top: 2.5rem;
+  font-size: 3em;
+  text-align: center;
+}
+
+figcaption {
+  color: #666666;
+  margin: -1.875em 0 2.5em 0;
+  text-align: center;
+  font-family: warnock-pro, georgia, sans-serif;
+  font-style: italic;
+  font-weight: 300;
 }
 
 header {
@@ -1164,16 +1199,8 @@ body {
   color: #333333;
 }
 
-a.return-to-text, a:link.return-to-text, a:visited.return-to-text {
-  text-decoration: none;
-}
-a.return-to-text b, a:link.return-to-text b, a:visited.return-to-text b {
-  position: absolute;
-  margin: -1px;
-  padding: 0;
-  height: 1px;
-  width: 1px;
-  overflow: hidden;
-  border: 0;
-  clip: rect(0 0 0 0);
+article img {
+  border-radius: 2px;
+  margin: 2.5em 0;
+  max-width: 100%;
 }

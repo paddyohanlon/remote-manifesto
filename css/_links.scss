@@ -21,3 +21,13 @@ small {
     }
   }
 }
+
+a, a:link, a:visited {
+  &.return-to-text {
+    text-decoration: none;
+    
+    b {
+      @include visually-hidden;
+    }
+  }
+}
