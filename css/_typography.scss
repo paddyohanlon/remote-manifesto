@@ -113,6 +113,10 @@ figure {
   }
 }
 
+.flush {
+  text-indent: 0;
+}
+
 blockquote {
   $font-size: 24px;
   font-size: pem($font-size);

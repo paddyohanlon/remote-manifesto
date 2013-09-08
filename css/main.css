@@ -559,6 +559,10 @@ figure + p {
   text-indent: 0;
 }
 
+.flush {
+  text-indent: 0;
+}
+
 blockquote {
   font-size: 1.5em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
@@ -640,7 +644,7 @@ header:before, header:after {
 header:after {
   clear: both;
 }
-@media only screen and (min-width: 40em) {
+@media only screen and (min-width: 47.5em) {
   header {
     padding-left: 2.5rem;
     padding-right: 2.5rem;
@@ -656,7 +660,7 @@ header > h1 {
   font-style: normal;
   font-weight: 400;
 }
-@media only screen and (min-width: 40em) {
+@media only screen and (min-width: 47.5em) {
   header > h1 {
     float: left;
     margin-top: 0;
@@ -680,7 +684,7 @@ header > h2 {
   font-size: 1rem;
   line-height: 1.5rem;
 }
-@media only screen and (min-width: 40em) {
+@media only screen and (min-width: 47.5em) {
   header > h2 {
     float: right;
     text-align: right;

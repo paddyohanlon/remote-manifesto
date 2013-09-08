@@ -18,7 +18,7 @@ Lidiya is named after her grandmother, who’s infamous baking I was almost dail
 
 <aside class="digression" id="compressive-images"><p>Nerd fact: For responsive images I have been using [Picturefill](#), but am experimenting with [This guys’s Compressive Images](#) technique on this site. <a class="return-to-text" href="#footnote5" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
-Lidiya’s grandfather, Sasha, is 82 years young. We arrived in time to help with the potato harvest; heavy work he still takes care of annually with his wife Lida.
+<p class="flush">Lidiya’s grandfather, Sasha, is 82 years young. We arrived in time to help with the potato harvest; heavy work he still takes care of annually with his wife Lida.</p>
 
 <figure>
   <img src="/assets/lidiya-and-paddy-farming.jpg" alt="Lidiya and I momentarily considering a quite, stationary, life on the land">
@@ -31,7 +31,7 @@ A healthy and active life of drinking and smoking abstinence certainly contribut
 
 ### The Six Wheel Drive Potato Harvesting Machine
 
-Sasha skillfully commands this machine. It is used for digging up, and then transporting the potatoes. It’s also used generally as a tractor & trailer for other tasks.
+Sasha skillfully commands this machine. It’s used for digging up, and then transporting the potatoes. It’s also used generally as a tractor & trailer for other tasks.
 
 <figure>
   <img src="/assets/the-six-wheel-drive-potato-harvesting-machine.jpg" alt="The Six Wheel Drive Potato Harvesting Machine">
@@ -39,7 +39,7 @@ Sasha skillfully commands this machine. It is used for digging up, and then tran
 
 The machine fascinates me. It’s so alien, I spent some time examining it. I noted the six wheels, odd front bucket, and improvised seat. The seat reveals several layers of older coverings—like a timeline of the machine’s life told through fabric and linoleum.
 
-Then there’s the externally mounted pull-string motor, and the two-lever steering. The left lever is pushed forward and back to control the left wheels, the the right lever controls the right hand side similarly. The plough, attached to the back of the machine, is used for bringing potatoes to the surface. It’s a modification Sasha himself implemented.
+Then there’s the externally mounted pull-string motor, and the two-lever steering. The left lever is pushed forward and back to control the left wheels, and the right lever controls the right hand side similarly. The plough, attached to the back of the machine, is used for bringing potatoes to the surface. It’s a modification Sasha himself implemented.
 
 <figure>
   <a href="#potatoes" id="footnote6">
@@ -49,11 +49,11 @@ Then there’s the externally mounted pull-string motor, and the two-lever steer
 
 <aside class="tangent" id="potatoes"><p>Sasha’s plot yeilds more than a years supply of potatoes, and will provide seed for replanting next season. They are stored in the basement of Sasha’s garage, where neighbours often come during winter to purchase. <a class="return-to-text" href="#footnote6" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
-Although far from elegant, or what I imagine most people would consider beautiful, the six wheel drive machine is absolutely functional. And although not beautiful, I don’t find it ugly, I enjoy looking at it. In the context of Sasha and Lida’s garden—their “огород” (pronounced agaroad), originally a state endowed allotment, later purchased by the couple— it works both in form and function. I still find it intriguing, but don’t question its belonging in that place.
+<p class="flush">Although far from elegant, or what I imagine most people would consider beautiful, the six wheel drive machine is absolutely functional. And although not beautiful, I don’t find it ugly, I enjoy looking at it. In the context of Sasha and Lida’s garden—their “огород” (pronounced agarod), originally a state endowed allotment, later purchased by the couple— it works both in form and function.</p>
 
 ### Gratitude
 
-Sasha made a great impression on me this visit. Speaking with him, even without understanding every word, I can feel the wisdom in his eyes. Some of his traits, which I alluded to earlier, are incredible gratitude, peaceful temperament, warm and powerful communication, keen curiosity, empathy, and love for others. I believe these drive him to continue to learn and serve, and he is as strong in spirit as he is physically.
+Sasha made a great impression on me. Speaking with him, even without understanding every word, I can feel the wisdom in his eyes. Some of his traits, which I alluded to earlier, are incredible gratitude, peaceful temperament, warm and powerful communication, keen curiosity, empathy, and love for others. I believe these drive him to continue to learn and serve, making him even stronger in spirit than he is physically.
 
 One day, I was surprised when Sasha started sharing his thoughts on malicious hackers and the consequential potential fragility of government security. Another time he commented on how great is it that technology enables me to work remotely. As well as being unexpectedly up to date on technology, it’s easy to get into in depth discussions with him on politics, philosophy and religion. He is still actively involved in his local community and continues to speak regularly as a pastor in his church.
 

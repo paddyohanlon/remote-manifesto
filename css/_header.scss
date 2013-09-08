@@ -3,7 +3,7 @@ header {
   padding: prem(27px) prem(20px) 0 prem(20px);
   position: relative;
   
-  @media only screen and (min-width: $break-small) {
+  @media only screen and (min-width: $break-medium) {
     padding-left: prem(40px);
     padding-right: prem(40px);
   }
@@ -17,7 +17,7 @@ header {
     text-align: center;
     @include type-copy;
     
-    @media only screen and (min-width: $break-small) {
+    @media only screen and (min-width: $break-medium) {
       float: left;
       margin-top: 0;
       text-align: left;
@@ -41,7 +41,7 @@ header {
     @include type-italic;
     @include type-size-small;
 
-    @media only screen and (min-width: $break-small) {
+    @media only screen and (min-width: $break-medium) {
       float: right;
       text-align: right;
       width: prem(260px);
