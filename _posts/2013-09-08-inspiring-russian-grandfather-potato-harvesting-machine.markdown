@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Inspiring Russian Grandfather-in-law and his Six Wheel Drive Potato Harvesting Machine"
-date:   2013-09-05 15:36:00
+date:   2013-09-07 15:36:00
 categories: articles
 location: the air, between Bucharest, Romania, and Girona, Catalonia
 ---

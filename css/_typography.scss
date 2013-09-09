@@ -70,13 +70,22 @@ h4 {
   @include type-subheading;
 }
 
+h5 {
+  $font-size: 20px;
+  font-size: pem($font-size);
+  @include scale(line-height, 43px, $font-size);
+  @include scale(margin, 22px 0px, $font-size);
+  @include type-subheading;
+}
+
 p {
   $font-size: 24px;
   @include scale(text-indent, 40px, $font-size);
 }
 
 p,
-ul li {
+ul li,
+ol li {
   $font-size: 24px;
   font-size: pem($font-size);
   @include scale(line-height, 40px, $font-size);
@@ -105,6 +114,7 @@ h1,
 h2,
 h3,
 h4,
+h5,
 .lead,
 .fleuron,
 figure {

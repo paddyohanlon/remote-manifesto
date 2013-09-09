@@ -515,13 +515,26 @@ h4 {
   font-weight: 600;
 }
 
+h5 {
+  font-size: 1.25em;
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  line-height: 2.15em;
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  margin: 1.1em 0em;
+  font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+}
+
 p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   text-indent: 1.66667em;
 }
 
 p,
-ul li {
+ul li,
+ol li {
   font-size: 1.5em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   line-height: 1.66667em;
@@ -553,6 +566,7 @@ h1 + p,
 h2 + p,
 h3 + p,
 h4 + p,
+h5 + p,
 .lead + p,
 .fleuron + p,
 figure + p {
