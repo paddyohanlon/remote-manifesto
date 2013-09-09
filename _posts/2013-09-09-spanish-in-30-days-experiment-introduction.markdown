@@ -4,6 +4,7 @@ title:  "The Spanish-in-30-Days Experiment: Introduction"
 date:   2013-09-09 12:36:00
 categories: experiment
 location: Girona, Catalonia
+published: false
 ---
 
 Just off the plane in Girona and inspired by the learning method in [Tim Ferris’ book, The 4-Hour Chef](affiliate link), I’m attempting a month long mission to learn Spanish. My definition of which is two part:

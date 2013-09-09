@@ -16,7 +16,7 @@ Lidiya is named after her grandmother, who’s infamous baking I was almost dail
   </a>
 </figure>
 
-<aside class="digression" id="compressive-images"><p>Nerd fact: For responsive images I have been using [Picturefill](#), but am experimenting with [This guys’s Compressive Images](#) technique on this site. <a class="return-to-text" href="#footnote5" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
+<aside class="digression" id="compressive-images"><p>Nerd fact: For responsive images I have been using [Picturefill](https://github.com/scottjehl/picturefill), but am experimenting with [Daan Jobsis Compressive Images](http://www.netvlies.nl/blog/design-interactie/retina-revolution) technique on this site. <a class="return-to-text" href="#footnote5" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
 <p class="flush">Lidiya’s grandfather, Sasha, is 82 years young. We arrived in time to help with the potato harvest; heavy work he still takes care of annually with his wife Lida.</p>
 
@@ -71,6 +71,4 @@ Learning of the difficult life that both he and Lida have lived, and hearing of 
 
 <div class="fleuron">&#9753;</div>
 
-For more of my amateur photography, you can [follow me on Instagram](#).
-
-If you enjoyed reading, feel free to share on [Twitter](#), [Facebook](#), or by shouting at the person next to you.
+For more of my amateur photography, you can [follow me on Instagram](http://instagram.com/paddyohanlon).
