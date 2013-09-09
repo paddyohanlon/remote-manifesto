@@ -72,3 +72,5 @@ Learning of the difficult life that both he and Lida have lived, and hearing of 
 <div class="fleuron">&#9753;</div>
 
 For more of my amateur photography, you can [follow me on Instagram](http://instagram.com/paddyohanlon).
+
+If you enjoyed reading, feel free to share on [Twitter](http://twitter.com/home?status=From%20The%20Remote%20Manifesto,%20the%20new%20blog%20of%20@Paddy:%20My%20Russian%20Grandfather-in-law%20and%20his%20Six%20Wheel%20Drive%20Machine%20http://bit.ly/15IXTRD), [Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://bit.ly/15IXTRD&p[images][0]=http://remotemanifesto.com/assets/the-six-wheel-drive-potato-harvesting-machine.jpg&p[title]=My%20Inspiring%20Russian%20Grandfather-in-law%20and%20his%20Six%20Wheel%20Drive%20Potato%20Harvesting%20Machine&p[summary]=), or open a window and shout.
