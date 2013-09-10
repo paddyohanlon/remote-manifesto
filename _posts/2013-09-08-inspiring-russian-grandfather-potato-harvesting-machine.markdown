@@ -8,7 +8,7 @@ location: the air, between Bucharest, Romania, and Girona, Catalonia
 
 Lidiya and I visited her grandparents in Russia for a couple of fantastic weeks at the end of August. I set up shop on their cosy terrace, just in reach of wifi from a nearby hotel.
 
-Lidiya is named after her grandmother, who’s infamous baking I was almost daily privileged to.
+Lidiya is named after her grandmother, whose infamous baking I was almost daily privileged to.
 
 <figure>
   <a href="#compressive-images" id="footnote5">
