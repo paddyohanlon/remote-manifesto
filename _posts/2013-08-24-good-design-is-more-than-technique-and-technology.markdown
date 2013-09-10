@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Good Design is more than Technique and Technology"
+description: Launching the new personal website of Paddy O’Hanlon and sharing the story of its making.
 date:   2013-08-24 10:20:00
 categories: creative-process
 location: Kaliningrad, Russia

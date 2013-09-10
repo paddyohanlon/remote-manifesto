@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My Logo24 Articles"
+description: Here are some articles I’ve published on the Logo24 blog
 date:   2013-09-05 12:00:00
 categories: articles
 location: Dobrich, Bulgaria

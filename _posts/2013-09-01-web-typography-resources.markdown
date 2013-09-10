@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Web Typography Resources"
+description: This is a collection of web typography resources I’ve found useful.
 date:   2013-09-01 18:00:00
 categories: typography
 location: Kaliningrad, Russia
