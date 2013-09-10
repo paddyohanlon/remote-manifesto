@@ -119,7 +119,7 @@ I speak some French, also in the Romance language family, like Spanish, so many 
 * You want
 * How do you say?
 
-I started, Sunday 8<sup>th</sup> September 2013. I’ll post the results in approximately a month, after 8<sup>th</sup> October.
+I started, Sunday 8<sup>th</sup> September 2013. I’ll post the results in approximately a month, after 8<sup>th</sup> October. If you want to know when I do, you can [get updates from my blog by email](http://feedburner.google.com/fb/a/mailverify?uri=TheRemoteManifesto&amp;loc=en_US).
 
 <div class="fleuron">&#9753;</div>
 
