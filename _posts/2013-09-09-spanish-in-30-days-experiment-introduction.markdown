@@ -1,20 +1,19 @@
 ---
 layout: post
 title:  "The Spanish-in-30-Days Experiment: Introduction"
-date:   2013-09-09 12:36:00
+date:   2013-09-10 09:41:00
 categories: experiment
 location: Girona, Catalonia
-published: false
 ---
 
-Just off the plane in Girona and inspired by the learning method in [Tim Ferris’ book, The 4-Hour Chef](affiliate link), I’m attempting a month long mission to learn Spanish. My definition of which is two part:
+Just off the plane in Girona and inspired by the learning method in [Tim Ferris’ book, The 4-Hour Chef](http://www.amazon.co.uk/gp/product/1477800077/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1477800077&linkCode=as2&tag=mylifethougan-21), I’m attempting a month long mission to learn Spanish. My definition of which is two part:
 
-1. Understanding roughly 50% of spoken words in coversation—which is an intuitive estimate, from my experience with Bulgarian, of the amount I need to understand in order to make sense of what someone is saying. For an over simplified example, if someone says “Hey, do you feel like having some coffee?”, it’s probably necessary to only understand the word “coffee”—in many languages a recognisable variation of “coffee” or “cafe”—and the intonation of the sentence—indicating a question—to understand and reply with a simple “yes” or “no”.
+1. Understanding roughly 50% of spoken words in conversation—which is an intuitive estimate, from my experience with Bulgarian, of the amount I need to understand in order to make sense of what someone is saying. For an oversimplified example, if someone says “Hey, do you feel like having some coffee?”, it’s probably necessary to only understand the word “coffee”—in many languages a recognisable variation of “coffee” or “cafe”—and the intonation of the sentence—indicating a question—to understand and reply with a simple “yes” or “no”.
 2. Being able to utlise what I know to express myself in daily conversation. I define “daily conversation” by things like, ordering drinks or food; asking for directions or recommendations; talking about what someone did today yesterday, last week; talking about interests and travel. I draw the line at philosophy, politics and spirituality. Topics which usually require clear articulation and a subject specific vocabulary.
 
 ### The Method
 
-Tim Ferris breaks down his learning process with two acronyms.
+Tim Ferriss breaks down his learning process with two acronyms.
 
 #### DiSSS
 
@@ -28,7 +27,7 @@ Tim Ferris breaks down his learning process with two acronyms.
 “In what order should I learn the blocks?”
 
 ##### S for Stakes
-“How do I set up stakes to create real concequences and guarantee I follow the program?”
+“How do I set up stakes to create real consequences and guarantee I follow the program?”
 
 #### CaFE (noted by Tim as optional)
 
@@ -36,7 +35,7 @@ Tim Ferris breaks down his learning process with two acronyms.
 “Can I encapsulate the most important 20% an easily graspable one-pager?”
 
 ##### F for Frequency
-“How frequenty should I practice? Can I cram, and what should my schedule look like? What growing pains can I predict? What is the minimum effective dose (MED) for volume?”
+“How frequently should I practice? Can I cram, and what should my schedule look like? What growing pains can I predict? What is the minimum effective dose (MED) for volume?”
 
 ##### E for Encoding
 “How do I anchor the new material to what I already know for rapid recall? Acronyms like DiSSS and CaFE are examples of encoding.”
@@ -48,19 +47,19 @@ Tim Ferris breaks down his learning process with two acronyms.
 My chosen Spanish LEGO blocks are as follows:
 
 * The 13 sentences Tim recommends for quickly deconstructing a language’s grammar. <sup><a href="#deconstruction-grammar-13" id="footnote7">&#8224;</a></sup>
-* [Michel Thomas’ Spainish Audio Course](#affiliate). Which really preselects many blocks for me.
-* The [Duolingo](#) iPhone app.
+* [Total Spanish with Michel Thomas Audio Course](http://www.amazon.co.uk/gp/product/1444133055/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1444133055&linkCode=as2&tag=mylifethougan-21). Which pre selects many blocks for me.
+* The [Duolingo](http://www.duolingo.com/) iPhone app.
 * Paper and pen note taking when I think of something that would be useful to know how to say.
-* Practicing vocabularly with the flashcard program [Anki](#). I’ll enter the words I note on paper here to make use of the spaced repetition model for increased memory retention.
-* Twice a week language exchanges with people found through [Couchsurfing](#) and [MyLanguageExchange.com](#).
+* Practicing vocabularly with the flashcard program [Anki](http://ankisrs.net/). I’ll enter the words I note on paper here to make use of the spaced repetition model for increased memory retention.
+* Twice a week language exchanges with people found through [Couchsurfing](https://www.couchsurfing.org/) and [MyLanguageExchange.com](http://www.mylanguageexchange.com/).
 * Listening to Spanish podcasts and music.
-* [Vis-ed Spanish Flashcards](#affiliate).
+* [Vis-ed Spanish Study Cards](http://www.amazon.co.uk/gp/product/1556370040/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1556370040&linkCode=as2&tag=mylifethougan-21).
 
 I’ve also installed a free Spanish dictionary iPhone app to look up words while I’m out and about. These I can note to later add to Anki for memorising.
 
 Another key helper in my experiment, is that I’m actually in the country where the language is spoken, and where not many people speak English. In Slovenia, a surprising amount of people speak English, which means many immediately replied to me in English despite my efforts. <sup><a href="#catalan" id="footnote8">&#8225;</a></sup>
 
-<aside class="tangent" id="catalan"><p><b>&#8225;</b> Girona is in Catalonia, so the first language is Catalan. Although I’m focusing on Spanish, I decided to learn the very basics of Catalan, so, as a strategy for politness, I can open and close conversation in Catalan, and use Spanish in the middle. <a class="return-to-text" href="#footnote8" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
+<aside class="tangent" id="catalan"><p><b>&#8225;</b> Girona is in Catalonia, so the first language is Catalan. Although I’m focusing on Spanish, I decided to learn the very basics of Catalan, so, as a strategy for politeness, I can open and close conversation in Catalan, and use Spanish in the middle. <a class="return-to-text" href="#footnote8" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
 #### Selection
 
@@ -76,22 +75,22 @@ In Selection, I’m also avoiding learning how to say the same thing in multiple
 I will complete the audio course, with intermittent Duolingo use, before arranging a language exchange meetup to have a good basis to make the most of each.
 
 #### Stakes
-The stakes? Public declaration and via this blog post.
+The stakes? Public declaration and potential resulting embarrassment via this blog post.
 
 #### Compression
 I’ve yet to think of a useful way to compress key material onto a one-pager. Anki is possibly a form of this as I bundle new vocab and phrases into new decks for easy practice.
 
 #### Frequency
 
-Michel Thomas’s course requires neither homework, review nor memorising. In fact he states doing any of that will hinder learning. I find I can listen to the course for hours on end without significant drop off in retention. I also noticed it’s cruicial I repeat out loud before the other speaker, on the audio track, repeats after the teacher. My retention seems to drop dramatically without doing so.
+Michel Thomas’s course requires neither homework, review nor memorising. In fact he states doing any of that will hinder learning. I find I can listen to the course for hours on end without significant drop off in retention. I also noticed it’s crucial I repeat out loud before the other speaker, on the audio track, repeats after the teacher. My retention seems to drop dramatically without doing so.
 
 Language exchanges I will try to arrange twice a week after the first week. From experience with Slovenian, I need to limit the volume of new learning in these sessions and schedule time to review my notes, add new material to Anki and practice. It seems a Michel Thomas-like method of conducting the exchanges, where the review and note taking isn’t necessary would be ideal and much more time effective. I’ll study these to see if a system can be introduced.
 
 #### Encoding
 
-I’ve successfully used something along the lines of the [Link Word](#) method, where I create associations with words and use visualisation to help remember. For example, today I learned the Spanish word for apple, “canzana”. I broke that down to can-zan-a, and imagined Billy Zane holding an apple over his head and saying to himself, “Billy ZANe CAN Apple!”. I also imagine myself in the visualisation looking at him, thinking that’s pretty weird—a Michel Thomas tip. 
+I’ve successfully used something along the lines of the [Link Word](http://en.wikipedia.org/wiki/Linkword) method, where I create associations with words and use visualisation to help remember. For example, today I learned the Spanish word for apple, “canzana”. I broke that down to can-zan-a, and imagined Billy Zane holding an apple over his head and saying to himself, “Billy ZANe CAN Apple!”. I also imagine myself in the visualisation looking at him, thinking that’s pretty weird—a Michel Thomas tip. 
 
-That’s not the most eloquent example—the words need to be reversed CAN ZAN A, and ZAN is pronounced differently than Zane—but it’s effective in that, while I’m committing the word to memory, when I think of an apple, I imagine that crazy visualisation and extract the syllabels.
+That’s not the most eloquent example—the words need to be reversed CAN ZAN A, and ZAN is pronounced differently than Zane—but it’s effective in that, while I’m committing the word to memory, when I think of an apple, I imagine that crazy visualisation and extract the syllables.
 
 ### The Starting Line
 
@@ -120,9 +119,7 @@ I speak some French, also in the Romance language family, like Spanish, so many 
 * You want
 * How do you say?
 
-I started yesterday, Sunday 8<sup>th</sup> September 2013. I’ll post the results in approximately a month, after 8<sup>th</sup> October.
-
-If you want to know when I do, you can [get updates from my blog by email](MailChimp).
+I started, Sunday 8<sup>th</sup> September 2013. I’ll post the results in approximately a month, after 8<sup>th</sup> October.
 
 <div class="fleuron">&#9753;</div>
 
