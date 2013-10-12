@@ -7,6 +7,7 @@
 @import 'links';
 @import 'typography';
 @import 'header';
+@import 'logo';
 @import 'footer';
 
 @import 'custom-posts';
@@ -31,15 +32,8 @@
  }
 
 body {
-  //background: #fffaf6 url('/assets/communications-officer-by-mark-doherty.png') no-repeat;
-  
-  @include image-2x-png(communications-officer-by-mark-doherty, 227px, 250px);
-  background-position: center prem(104px);
+  background-color: $color-bg;
   color: $color-text;
-  
-  @media only screen and (min-width: $break-medium) {
-    background-position: pem(65px) pem(94px);
-  }
 }
 
 article {

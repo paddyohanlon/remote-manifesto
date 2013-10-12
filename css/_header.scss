@@ -4,7 +4,11 @@ header {
   position: relative;
   
   @media only screen and (min-width: $break-medium) {
-    padding: prem(27px) prem(40px) 0 prem(40px);;
+    padding: prem(27px) prem(40px) prem(160px) prem(40px);
+  }
+  
+  @media only screen and (min-width: $break-large) {
+    padding-bottom: 0;
   }
   
   // <h1> logo
