@@ -1,11 +1,10 @@
 header {
   @include group;
-  padding: prem(27px) prem(20px) 0 prem(20px);
+  padding: prem(27px) prem(20px) prem(238px) prem(20px);
   position: relative;
   
   @media only screen and (min-width: $break-medium) {
-    padding-left: prem(40px);
-    padding-right: prem(40px);
+    padding: prem(27px) prem(40px) 0 prem(40px);;
   }
   
   // <h1> logo
