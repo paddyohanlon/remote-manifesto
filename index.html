@@ -1,15 +1,23 @@
 ---
 layout: default
 title: The Remote Manifesto
-description: The personal website of Paddy O’Hanlon, an Irish web designer, sharing thoughts on the web, design, travel and remote working life.
+description: By Irish web designer Paddy O’Hanlon, writing about design, travel and remote working life.
 ---
 
-{% for post in site.posts %}
-  <article>
-    <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
-    <small>Written from {{ post.location }}</small>
-    {{ post.content }}
-    <small>Published by <a href="#footer">Paddy</a> on {{ post.date | date_to_string }}</small>
-  </article>
-  <div class="asterism">&#8258;</div>
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+
+<article>
+  <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+  <small>Written from {{ post.location }}</small>
+  {{ post.content }}
+  <small>Published by <a href="#footer">Paddy</a> on {{ post.date | date_to_string }}</small>
+</article>
+<div class="asterism">&#8258;</div>
+
+<h3>Earlier Articles</h3>
+{% for post in site.posts offset:1 %}
+  <ul>
+    <li><a href="{{post.url}}">{{ post.title }}</a></li>
+  </ul>
 {% endfor %}

@@ -37,11 +37,21 @@ body {
 }
 
 article {
-  background: rgba(255,250,246,.8); // same as bg colour with transparency
-  
   img {
     border-radius: 2px;
     margin: pem(40px) 0;
     max-width: 100%;
+  }
+}
+
+// <figure>
+.blow-up {
+  
+  @media only screen and (min-width: $break-medium-large) {
+    margin: 0 -(pem(150px));
+  }
+  
+  @media only screen and (min-width: $break-large-1) {
+    margin: 0 -(pem(309px));
   }
 }

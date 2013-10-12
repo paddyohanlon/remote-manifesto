@@ -1244,11 +1244,19 @@ body {
   color: #333333;
 }
 
-article {
-  background: rgba(255, 250, 246, 0.8);
-}
 article img {
   border-radius: 2px;
   margin: 2.5em 0;
   max-width: 100%;
+}
+
+@media only screen and (min-width: 63.875em) {
+  .blow-up {
+    margin: 0-9.375em;
+  }
+}
+@media only screen and (min-width: 82.5em) {
+  .blow-up {
+    margin: 0-19.3125em;
+  }
 }
