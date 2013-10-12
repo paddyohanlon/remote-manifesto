@@ -1,21 +1,18 @@
-// Ligatures
-//text-rendering: optimizeLegibility;
-body {
-  @include ligatures;
-}
-
 @mixin type-display {
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 700;
 }
 
 @mixin type-subheading {
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 600;
 }
 
 @mixin type-copy {
   font-family: warnock-pro, georgia, sans-serif;
+  font-style: normal;
   font-weight: 400;
 }
 
@@ -25,8 +22,16 @@ body {
   font-weight: 300;
 }
 
+@mixin type-size-small {
+  font-size: prem(16px);
+  line-height: prem(24px);
+}
+
 body {
+  color: $color-text;
   font-size: .75em;
+  @include ligatures;
+  @include type-copy;
   
   @media only screen and (min-width: $break-medium) {
     font-size: 1em;
@@ -42,10 +47,10 @@ h1 {
 }
 
 h2 {
-  $font-size: 38px;
+  $font-size: 48px;
   font-size: pem($font-size);
-  @include scale(line-height, 49px, $font-size);
-  @include scale(margin, 33px 0px 30px 0px, $font-size);
+  @include scale(line-height, 61px, $font-size);
+  @include scale(margin, 33px 0px 0px 0px, $font-size);
   @include type-subheading;
 }
 
@@ -65,22 +70,61 @@ h4 {
   @include type-subheading;
 }
 
+h5 {
+  $font-size: 20px;
+  font-size: pem($font-size);
+  @include scale(line-height, 43px, $font-size);
+  @include scale(margin, 22px 0px, $font-size);
+  @include type-subheading;
+}
+
 p {
+  $font-size: 24px;
+  @include scale(text-indent, 40px, $font-size);
+}
+
+p,
+ul li,
+ol li {
   $font-size: 24px;
   font-size: pem($font-size);
   @include scale(line-height, 40px, $font-size);
-  @include scale(text-indent, 80px, $font-size);
   @include type-copy;
+}
+
+// Pubdate
+small {
+  display: block;
+  text-align: right;
+  margin-top: prem(40px);
+  @include type-italic;
+  @include type-size-small;
+  
+  & + p {
+    text-indent: 0;
+  }
+}
+
+h2 + small {
+  margin: 0 0 2em 0;
+  text-align: left;
 }
 
 h1,
 h2,
 h3,
 h4,
-.lead {
+h5,
+.lead,
+.fleuron,
+figure {
   & + p {
     text-indent: 0;
   }
+}
+
+.flush {
+  text-indent: 0;
 }
 
 blockquote {
@@ -102,18 +146,44 @@ blockquote {
 
 aside {
   & > p {
+    color: $color-subtle;
     font-size: prem(18px);
     line-height: prem(30px);
-    margin: prem(33px) 0 prem(49px) 0;
+    margin: prem(33px) prem(40px) prem(49px) prem(40px);
     text-indent: 0;
     @include type-italic;
     
-    @media only screen and (min-width: $break-medium) {
+    @media only screen and (min-width: $break-small) {
       margin: prem(33px) prem(80px) prem(49px) prem(80px);
     }
     
     @media only screen and (min-width: $break-large) {
       margin: prem(10px) 0 0 0;
     }
+    
+    a, a:link, a:visited {
+      color: $color-subtle;
+    }
   }
+}
+
+// <div>
+.asterism {
+  margin-top: prem(77px);
+  font-size: 2em;
+  text-align: center;
+}
+
+// <div>
+.fleuron {
+  margin-top: prem(40px);
+  font-size: 3em;
+  text-align: center;
+}
+
+figcaption {
+  color: $color-subtle;
+  margin: pem(-30px) 0 pem(40px) 0;
+  text-align: center;
+  @include type-italic;
 }

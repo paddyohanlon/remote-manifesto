@@ -4,5 +4,30 @@ a, a:link, a:visited {
   @include transition(color, .3s, ease-in-out);
 }
 a:hover, a:focus, a:active {
-  color: $color-hover;
+  color: $color-brand;
+}
+
+p,
+ul,
+ol,
+small {
+  a, a:link, a:visited {
+    text-decoration: underline;
+  }
+  
+  sup {
+    a, a:link, a:visited {
+      text-decoration: none;
+    }
+  }
+}
+
+a, a:link, a:visited {
+  &.return-to-text {
+    text-decoration: none;
+    
+    b {
+      @include visually-hidden;
+    }
+  }
 }

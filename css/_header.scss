@@ -1,7 +1,15 @@
 header {
   @include group;
-  padding: prem(17px) prem(20px) 0 prem(20px);
+  padding: prem(27px) prem(20px) prem(238px) prem(20px);
   position: relative;
+  
+  @media only screen and (min-width: $break-medium) {
+    padding: prem(27px) prem(40px) prem(160px) prem(40px);
+  }
+  
+  @media only screen and (min-width: $break-large) {
+    padding-bottom: 0;
+  }
   
   // <h1> logo
   & > h1 {
@@ -12,7 +20,7 @@ header {
     text-align: center;
     @include type-copy;
     
-    @media only screen and (min-width: $break-small) {
+    @media only screen and (min-width: $break-medium) {
       float: left;
       margin-top: 0;
       text-align: left;
@@ -31,13 +39,12 @@ header {
   // <h2> subheading
   & > h2 {
     color: darken($color-faded,0%);
-    font-size: prem(16px);
-    line-height: prem(24px);
     margin-top: 0;
     text-align: center;
     @include type-italic;
+    @include type-size-small;
 
-    @media only screen and (min-width: $break-small) {
+    @media only screen and (min-width: $break-medium) {
       float: right;
       text-align: right;
       width: prem(260px);

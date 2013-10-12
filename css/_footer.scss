@@ -1,0 +1,71 @@
+// <footer>
+#footer {
+  background: $color-footer-bg;
+  color: $color-subtle;
+  margin-top: prem(80px);
+  padding: prem(32px) 0 prem(20px) 0;
+  position: relative;
+  
+  a, a:link, a:visited {
+    color: $color-subtle;
+  }
+  
+  p {
+    font-size: prem(18px);
+    line-height: prem(30px);
+    margin: 0 0 prem(30px) 0;
+    text-indent: 0;
+    @include type-italic;
+  }
+  
+  .wrapper {
+    @include group;
+  }
+  
+  figure {
+    text-align: center;
+    padding-bottom: prem(20px);
+    width: 100%;
+    
+    @media only screen and (min-width: $break-small) {
+      float: left;
+      padding-right: prem(40px);
+      width: 25%;
+    }
+  }
+  
+  article {
+    width: 100%;
+    
+    @media only screen and (min-width: $break-small) {
+      float: left;
+      padding-right: prem(40px);
+      width: 75%;
+    }
+    
+    p {
+      &:nth-last-child(2) {
+        color: $color-text;
+        font-size: prem(24px);
+        line-height: prem(40px);
+        @include type-copy;
+      }
+      
+      &:last-child {
+        @include type-copy;
+      }
+    }
+  }
+}
+
+img[src*='http://www.gravatar.com'] {
+  border-radius: prem(80px);
+  height: prem(120px);
+  width: prem(120px);
+  
+  @media only screen and (min-width: $break-small) {
+    border-radius: prem(80px) prem(6px) prem(6px) prem(80px);
+    height: auto;
+    width: 100%;
+  }
+}

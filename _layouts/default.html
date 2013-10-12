@@ -4,10 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, user-scalable=yes">
-    <title>{{ page.title }} | {{ site.name }}</title>
-    <meta name="description" content="">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{page.description}}">{% endif %}
     <link rel="stylesheet" href="/css/main.css">
-    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <link rel="author" href="https://plus.google.com/107826425380309081315">
+    <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     <script type="text/javascript" src="//use.typekit.net/iqv2amv.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   </head>
@@ -22,11 +23,21 @@
       {{ content }}
     </div>
     <footer id="footer">
-      All about Paddy and site credits.
+      <div class="wrapper">
+        <figure><img src="http://www.gravatar.com/avatar/9b4a53ccacd7c565ff5db519d02bb5d4?s=180" alt="Gravatar for Paddy O’Hanlon" class="gravatar"></figure>
+        <article>
+          
+          <p>The Remote Manifesto is the personal website of Paddy O’Hanlon, an Irish web designer, one of the principals at <a href="http://logo24.com">Logo24</a> and co-creater of <a href="http://learnslovenianonline.com">Learn Slovenian Online</a>. He also helps build <a href="http://tito.io">Tito</a>.</p>
+          <p>He is a lover of good semantics, well documented and architected CSS, and beautiful, content-driven design. (Really the design-guise is a cover-up so he can covertly feed his travel addiction and climb many rocks around the world).</p>
+          <p>You can follow him on <a href="http://twitter.com/Paddy">Twitter</a>, <a href="http://instagram.com/paddyohanlon">Instagram</a>, and <a href="https://www.facebook.com/paddyohanlon">Facebook</a>.</p>
+          <p>Need some internet made? <a href="http://logo24.com/listens">Hire Logo24</a>.</p>
+          <p>The site is typeset in <a href="https://typekit.com/fonts/warnock-pro">Warnock Pro</a>, served by <a href="http://typekit.com/">Typekit</a>.</p>
+        </article>
+      </div>
     </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>

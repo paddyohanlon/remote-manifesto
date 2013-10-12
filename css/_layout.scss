@@ -1,7 +1,7 @@
 // <div>
 .wrapper {
   margin: 0 auto;
-  max-width: prem(700px);
+  max-width: prem(740px);
   padding: 0 prem(20px);
 }
 
@@ -20,4 +20,9 @@
       width: prem(269px);
     }
   }
+}
+
+aside b {
+  margin-left: prem(-14px);
+  float: left;
 }

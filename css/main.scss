@@ -7,6 +7,10 @@
 @import 'links';
 @import 'typography';
 @import 'header';
+@import 'logo';
+@import 'footer';
+
+@import 'custom-posts';
 
 @import 'syntax';
 @import 'h5bp-print';
@@ -28,6 +32,26 @@
  }
 
 body {
-  background: #fffaf6;
+  background-color: $color-bg;
   color: $color-text;
+}
+
+article {
+  img {
+    border-radius: 2px;
+    margin: pem(40px) 0;
+    max-width: 100%;
+  }
+}
+
+// <figure>
+.blow-up {
+  
+  @media only screen and (min-width: $break-medium-large) {
+    margin: 0 -(pem(150px));
+  }
+  
+  @media only screen and (min-width: $break-large-1) {
+    margin: 0 -(pem(309px));
+  }
 }
