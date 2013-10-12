@@ -583,10 +583,17 @@ blockquote {
   line-height: 1.66667em;
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   /* unwrap lists for values that have multiple list of values such as text-shadow */
-  margin: 1.66667em 3.33333em;
+  margin: 0.83333em 1.66667em;
   font-family: warnock-pro, georgia, sans-serif;
   font-style: italic;
   font-weight: 300;
+}
+@media only screen and (min-width: 47.5em) {
+  blockquote {
+    /* unwrap lists for values that have multiple list of values such as text-shadow */
+    /* unwrap lists for values that have multiple list of values such as text-shadow */
+    margin: 1.66667em 3.33333em;
+  }
 }
 
 .lead {

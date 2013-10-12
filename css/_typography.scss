@@ -131,8 +131,12 @@ blockquote {
   $font-size: 24px;
   font-size: pem($font-size);
   @include scale(line-height, 40px, $font-size);
-  @include scale(margin, 40px 80px, $font-size);
+  @include scale(margin, 20px 40px, $font-size);
   @include type-italic;
+  
+  @media only screen and (min-width: $break-medium) {
+    @include scale(margin, 40px 80px, $font-size);
+  }
 }
 
 .lead {
