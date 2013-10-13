@@ -16,8 +16,8 @@ description: By Irish web designer Paddy O’Hanlon, writing about design, trave
 <div class="asterism">&#8258;</div>
 
 <h3>Earlier Articles</h3>
-{% for post in site.posts offset:1 %}
-  <ul>
-    <li><a href="{{post.url}}">{{ post.title }}</a></li>
-  </ul>
-{% endfor %}
+<ul>
+  {% for post in site.posts offset:1 %}
+  <li><a href="{{post.url}}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

@@ -55,3 +55,8 @@ article {
     margin: 0 -(pem(309px));
   }
 }
+
+// <li> Article Index list, highlight current post
+.current-post {
+  color: $color-faded;
+}

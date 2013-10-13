@@ -1267,3 +1267,7 @@ article img {
     margin: 0-19.3125em;
   }
 }
+
+.current-post {
+  color: #a5a29e;
+}
