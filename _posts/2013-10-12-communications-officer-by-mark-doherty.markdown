@@ -103,6 +103,7 @@ Here is the journey from initial concept sketches, character development, underd
   <img src="/assets/character-implementation.png" alt="Three screenshots of how the character has been implemented in this site's design">
 </figure>
 
-Check out more of Mark’s work at the [Olivier Cornet Gallery](http://www.oliviercornetgallery.com/#/mark-doherty/4562132026) site.
+<div class="fleuron">&#9753;</div>
 
-You can commission or purchase work by [contacting the gallery](http://www.oliviercornetgallery.com/#/contact/4561692678).
+* Check out more of Mark’s work at the [Olivier Cornet Gallery](http://www.oliviercornetgallery.com/#/mark-doherty/4562132026) site.
+* You can commission or purchase work by [contacting the gallery](http://www.oliviercornetgallery.com/#/contact/4561692678).
