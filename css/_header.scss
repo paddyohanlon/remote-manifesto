@@ -1,7 +1,6 @@
 header {
   @include group;
   padding: prem(27px) prem(20px) prem(238px) prem(20px);
-  position: relative;
   
   @media only screen and (min-width: $break-medium) {
     padding: prem(27px) prem(40px) prem(160px) prem(40px);
@@ -16,7 +15,6 @@ header {
     font-size: prem(29px);
     line-height: prem(33px);
     margin: 0 0 prem(2px) 0;
-    position: relative;
     text-align: center;
     @include type-copy;
     

@@ -1,12 +1,26 @@
-body {
-  @include image-2x-png(communications-officer-by-mark-doherty, 227px, 250px);
-  background-position: center prem(104px);
-
-  @media only screen and (min-width: $break-medium) {
-    background-position: center prem(10px);
-  }
+// <span>
+.communications-officer {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
   
-  @media only screen and (min-width: $break-large) {
-    background-position: pem(65px) pem(94px);
+  img {
+    height: prem(250px);
+    left: 50%;
+    margin-left: prem(-114px);
+    position: absolute;
+    top: prem(104px);
+    width: prem(227px);
+    
+    @media only screen and (min-width: $break-medium) {
+      top: prem(10px);
+    }
+    
+    @media only screen and (min-width: $break-large) {
+      left: prem(65px);
+      margin-left: 0;
+      top: prem(94px);
+    }
   }
 }
