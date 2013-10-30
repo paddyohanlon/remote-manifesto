@@ -1,6 +1,6 @@
 # [The Remote Manifesto](http://remotemanifesto.com)
 
-The personal blog of me, @Paddy. I write about design, the web, travel, climbing and language learning.
+The personal blog of me, [@Paddy](https://twitter.com/Paddy "Follow me on Twitter"). I write about design, the web, travel, climbing and language learning.
 
 ## About the site
 
