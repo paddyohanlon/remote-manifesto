@@ -13,17 +13,17 @@ location: from the air, between Girona, Catalonia and Dublin, Ireland
 <blockquote>“I’m too old to learn, kids just soak it up like sponges.”</blockquote>
 <blockquote>“It’s easy for them, they are naturally fit.”</blockquote>
 
-I’ve heard statements similar to these several times throughout my life and they’ve stuck in my mind, probably because they frustrate the heck out of me. That is, they frustrate me if the speaker actually really wants to do something, but has setup excuses for not taking action.
+I’ve heard statements similar to these several times throughout my life—not directed at me—and they’ve stuck in my mind, probably because they frustrate the heck out of me. That is, they frustrate me if the person doing the talking really wants to do something, but has setup excuses for not taking action.
 
 ### Physical Limitations
 
-Playing guitar doesn’t require long fingers. Malmsteen has short chubby fingers and he’s one of the best. Black Sabbath guitarist, Tony Iommi, fashioned a prostethic finger from washing up liquid bottles after an accident, which is a much more serious obstacle than small fingers. And guitars width different sized neck widths.
-
-Short digits may be an issue for some incredibly wide reaches across the fretboard. Maybe they make it more challenging to be one of the most accomplished lead guitarists in the world, but probably not. Anyone, lucky enough to have most of their fingers can learn a few open chords, and so play guitar. The physical limitation is just an excuse. If you want it, you can do it.
+Playing guitar doesn’t require long fingers. [Yngwie Malmsteen](#) has short chubby fingers and he’s one of the best. Black Sabbath guitarist, [Tony Iommi](#), fashioned a prostethic finger from washing up liquid bottles after an accident, which is a much more serious obstacle than small fingers. And guitars come with different width necks. The physical limitation is just an excuse. If you want it, you can do it.
 
 The situation is similar with rock climbing. Most people, in reasonably good health, could manage an easy sports route. Some easy climbs are like stair cases, with very little stress placed on the arms. I imagine for many, climbing conjures a single image or emotion. Climbing equals difficult.
 
-The definition of what acquiring a new skill means is important. What does climbing or playing guitar mean? Does a person want to climb a ladder, or Dura Dura? Does another want to play Teen Spirit, or Yngwie Malmsteen's Black Ship? Defining a goal can often demystify what is involved in achieving it, removing some of the associated fear with it. 
+### Goal Definition
+
+The definition of what acquiring a new skill means is important. What does climbing or playing guitar mean? Does a person want to climb a ladder, or [Dura Dura](#)? Does another want to play [Teen Spirit](#), or Malmsteen’s [Black Ship](#)? Defining a goal can often demystify what is involved in achieving it, removing some of the associated fear. 
 
 ### Learning with Age
 
@@ -47,9 +47,9 @@ I love Will Smith’s answer, when asked about the difference between him, about
 
 I remember vividly the last time I heard this. At a networking event, during a presentation given by sports supplement company, who were advising a healthy diet and regular exercise as part of their diet.
 
-It turned out one meeting attendee regularly runs Iron Man triathlon’s. It’s his hobby, he loves them. Another then commented that this athlete was naturally fit, as was a neigbour who could run 5km with ease.
+It turned out one meeting attendee regularly runs Iron Man triathlon’s. It’s his hobby, he loves them. Another then commented that this athlete was naturally fit, as was a neighbour who could run 5km with ease.
 
-Whatever slight genetic health advantage one might have, to believe in natural fitness is to believe that you are either naturally fit, or naturally unfit. The athlete trains for triathlons and probably eats well. Those events demand attention to nutrition or the body will not perform. The same, I imagine, is true for the doubters neighbour. She probably exercises somewhat and eats relatively well.
+Whatever slight genetic health advantage one might have, to believe in natural fitness is to believe that you are either naturally fit, or naturally unfit. The athlete trains for triathlons and probably eats well. Those events demand attention to nutrition or the body will not perform. The same, I imagine, is true for the doubter’s neighbour. She probably exercises somewhat and eats relatively well.
 
 It’s highly unlikely that the gentlemen who implied running 5km was too much for him, has very similar physical activity and eating habits as the triathlete or neighbour, but that he is the victim of some genetic injustice that makes him naturally unheathly.
 
@@ -67,13 +67,13 @@ When deciding why I felt the desire to write this post, I came up with few answe
 
 The third, and probably the real root of the desire to write about this topic—which has been nagging at me for a couple of weeks now—is to identify my own current excuses.
 
-I’ve been trying to gain weight for about six months, but have stayed more or less the same. Why? Not eating enough consistently, and not training to gain weight consistently. Excuses? I don't have time because during very busy work periods. I have to spend more on food, and it’s a vanity goal, so.... There is clearly a way to make it happen though.
+I’ve been trying to gain weight for about six months, but have stayed more or less the same. Why? Not eating enough consistently, and not training to gain weight consistently. Excuses? I don’t have time because during very busy work periods. I have to spend more on food, and it’s a vanity goal, so.... There is clearly a way to make it happen though.
 
 I’ve been trying to meditate regularly also, and can say I do meditate, but not with 100% consistency, I miss a week here or there, particularly during busy work periods—Same excuse.
 
 ### Motivation
 
-Tony Robbins encourages using a question when goal setting. Using his two direction, pleasure and pain, methaphor for why we take action or not, pleasure is usually clearly defined in the reason for the pursuit of the new goal we’re undertaking. The pleasure motivates us to take action towards the goal; what will we get if we achieve it? What can supplement that, is to define the pain that will be received by not following through. So the question I need to answer, for my own self-assigned homework:
+Tony Robbins encourages using a question when goal setting. I’ll make use of his two direction, pleasure and pain, methaphor for why we take action or not. Pleasure is usually clearly defined in the reason for the pursuit of the new goal we’re undertaking. The pleasure motivates us to take action towards the goal; what will we get if we achieve it? What can supplement that, is to define the pain that will be received by not following through. So the question I need to answer, for my own self-assigned homework:
 
 “What will happen if I don’t take action and make these things happen? What will the concequences be?”
 
