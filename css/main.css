@@ -543,6 +543,11 @@ ol li {
   font-weight: 400;
 }
 
+.highlight {
+  margin: 1em 0;
+  padding: .5em 1em;
+}
+
 small {
   display: block;
   text-align: right;

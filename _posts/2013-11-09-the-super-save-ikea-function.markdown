@@ -11,14 +11,15 @@ I may have been working too much this week, but I also may have worked out a hug
 
 From now on you only need purchase one unit of any Ikea product. Then just run it though this function to duplicate the product as many times as you need.
 
-    // E.g. Create three extra chairs
-    efficient_ikea_products('kitchen chair', 3);
-
     function efficient_ikea_products(ikea_product, quantity) {
       for (var count = 0; count < quantity; count++) {
         manifest_product(ikea_product);
       }
     }
+    
+E.g. To create three extra chairs:
+    
+    efficient_ikea_products('kitchen chair', 3);
 
 This is really meant for reasonably low output, like having a few friends over. If you’re hosting a large event, and need to create a 1,000 forks, things are going to get a little slow.
 
