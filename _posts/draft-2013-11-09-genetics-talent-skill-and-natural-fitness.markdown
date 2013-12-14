@@ -76,7 +76,3 @@ I’ve been trying to meditate regularly also, and can say I do meditate, but no
 Tony Robbins encourages using a question when goal setting. I’ll make use of his two direction, pleasure and pain, methaphor for why we take action or not. Pleasure is usually clearly defined in the reason for the pursuit of the new goal we’re undertaking. The pleasure motivates us to take action towards the goal; what will we get if we achieve it? What can supplement that, is to define the pain that will be received by not following through. So the question I need to answer, for my own self-assigned homework:
 
 “What will happen if I don’t take action and make these things happen? What will the concequences be?”
-
-
-
-
