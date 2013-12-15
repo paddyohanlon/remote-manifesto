@@ -17,7 +17,7 @@ Do 'grunt' in the site folder, from terminal before deploying to GitHub Pages.
 
 ### Image Opimisation
 
-Grunt is also watching to optimise images.
+Grunt optimises all images in the assets folder.
 
 ## Spiel for public repo
 

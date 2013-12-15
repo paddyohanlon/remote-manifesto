@@ -1,6 +1,6 @@
 name: The Remote Manifesto
 markdown: redcarpet
 pygments: true
-exclude: [main.scss, config.rb]
+exclude: [main.scss, config.rb, build]
 description: The personal website of Paddy O’Hanlon on design and life
 url: http://remotemanifesto.com/
