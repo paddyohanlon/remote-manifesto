@@ -77,3 +77,31 @@ Write structure; bullets, short rough paragraphs.
 Evaluate topics, refer to purpose and audience, cut where necessary and tighten structure/arguments
 Research existing articles, and general info about topic. Answers from experts.
 Start first draft.
+
+- - -
+
+Hi Mark,
+
+I’m a long time admirer, Gridset fan and Five Simple Steps reader. If you have a minute I’d love to pick your brain about process for creating , or deciding on, a project’s visual  style.
+
+I’m collecting my thoughts by writing a post on the topic with the aim of being better at communicating to clients why the current oblate trend in our industry may, or may not, be the right choice for their project – I have had a few new clients recently tell me they want “flat design”. Being able to better communicate are the topic, I feel, will be invaluable in future also, not just for the trend of the hour.
+
+If you have a minute to share your thoughts, or can think of any resources that may be useful, it would be much appreciated. I’m sure you’re up to your eyes as usual though, so if you don’t have time to reply I completely understand.
+
+Have a great Chrismas,
+@Paddy
+
+
+# Replies
+
+Trent: 
+[16/12/2013 17:11:43] Trent Walton: That word is so subjective.
+[16/12/2013 17:12:03] Trent Walton: talk to clients about WHY they want a particular style… it's more about the right tool for the right job
+[16/12/2013 17:12:34] Trent Walton: but I'd say that when clients say RESPONSIVE FLAT CSS3 HTML5 CANVAS OMG, they don't mean anything in particular other than "we want something current".
+
+Dave: 
+Regarding flat design, I think visual styling is something that is very project-specific. It seems like an obvious statement but in certain cases a minimal design may not suit.
+
+There’ll always be people who want the latest trends, and that’s okay. I think the best way to approach these things is to have a solid base of a good grid, good typography, and suitable imagery. Once you have those, you can dress up or dress down the style accordingly.
+
+As with anything, moderation is the key. Not too flat, not too texture-heavy.
