@@ -4,6 +4,10 @@
 
 Run `jekyll serve --watch` in the root folder.
 
+## Grunt & Deploy!
+
+Stop `grunt watch` and run `grunt` in the root folder to min and concatenate js, as well as optimise images.
+
 ## Compass and Grunt CSS
 
 * Run `compass watch` in the css folder, and run `grunt watch` in the root folder.
