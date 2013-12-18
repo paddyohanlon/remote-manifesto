@@ -1,21 +1,25 @@
 # [The Remote Manifesto](http://remotemanifesto.com)
 
-## Compass and Grunt
+## Firing up the dev environment
 
-Do 'grunt' in the site folder, from terminal before deploying to GitHub Pages.
+Run `jekyll serve --watch` in the root folder.
 
-### CSS
+## Grunt & Deploy!
 
-* Run compass watch in the css folder, and run grunt watch in the root folder.
+Stop `grunt watch` and run `grunt` in the root folder to min and concatenate js, as well as optimise images.
+
+## Compass and Grunt CSS
+
+* Run `compass watch` in the css folder, and run `grunt watch` in the root folder.
 * When main.scss is updated compass generates css/build/main.css
 * When that file is created, grunt runs autoprefix and creates css/build/autoprefix/main.css
 * When that file is created, grunt runs cssmin and creates css/main.css (product ready, and in the right location for layouts/default.html to pick up)
 
-### JS
+## Grunt JS
 
 * js/main.js and js/plugins.js are being concatenated and minified with 'grunt', they're not included in 'grunt watch'. Add other js files in Gruntfile.js.
 
-### Image Opimisation
+## Grunt Image Opimisation
 
 Grunt optimises all images in the assets folder.
 

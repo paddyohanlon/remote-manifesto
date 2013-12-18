@@ -1427,6 +1427,10 @@ article img {
   max-width: 100%;
 }
 
+iframe {
+  margin: 1.5em 0;
+}
+
 @media only screen and (min-width: 63.875em) {
   .blow-up {
     margin: 0-9.375em;
