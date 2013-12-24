@@ -1,0 +1,237 @@
+@import 'breakpoints';
+@import 'helpers';
+
+$handwriting-color: #2E2E2E;
+
+@mixin type-handwriting {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+// <ul>
+.javascript-comic-001 {
+  background: #fff;
+  border: 1px solid $handwriting-color;
+  margin: 2.5em 0;
+  padding: .7em;
+  font-size: 1.3em;
+  min-width: 44em;
+
+  @media only screen and (min-width: $break-medium) {
+    font-size: 1em;
+    min-width: 0; 
+  }
+
+  li {
+    list-style: none;
+    position: relative;
+  }
+
+  p {
+    color: $handwriting-color;
+    font-size: .65em;
+    line-height: 1.2em;
+    text-indent: 0;
+    @include type-handwriting;
+  }
+
+  img {
+    border: 1px solid $handwriting-color;
+    margin: 0; // remove article img default.
+  }
+
+  span {
+    position: absolute;
+  }
+
+  i {
+    @include visually-hidden;
+  }
+}
+
+// Speech <span>s
+// Naming convention is .panel-[panel number]-[speech bubble]
+
+.narration {
+  margin-bottom: .7em;
+  text-align: center;
+}
+
+// Man, I’m sick of limiting myself to jQuery examples
+.panel-01-01 {
+  right: 2%;
+  top: 15%;
+  width: 34%;
+}
+
+// but being more adventureous
+.panel-01-02 {
+  right: 11%;
+  top: 58.5%;
+  width: 33%;
+}
+
+// Maybe tomorrow...
+.panel-03-01 {
+  right: 0;
+  top: 12%;
+  width: 39%;
+}
+
+// This path is frought...
+.panel-04-01 {
+  left: 1%;
+  top: 2.5%;
+  width: 40%;
+}
+
+// YES!
+.panel-04-02 {
+  left: 52.5%;
+  top: 68.5%;
+  width: 10%;
+}
+
+// That felt a little overexcited...
+.panel-04-03 {
+  right: 1%;
+  top: 71.5%;
+  width: 15%;
+  font-size: .9em;
+  line-height: 1em;
+  text-align: right;
+}
+
+// You have been warned
+.panel-04-04 {
+  left: 51.7%;
+  top: 81%;
+  width: 9%;
+}
+
+// I’m the js troll
+.panel-05-01 {
+  left: 1%;
+  top: 2.5%;
+  width: 90%;
+}
+
+// Well I once wrote a
+.panel-05-02 {
+  left: 3.5%;
+  top: 32.5%;
+  width: 47%;
+}
+
+// beat Lea Verou at chess
+.panel-05-03 {
+  left: 54.5%;
+  top: 47.5%;
+  width: 12%;
+}
+
+// No response
+.panel-05-04 {
+  left: 4%;
+  top: 48%;
+  width: 19%;
+}
+
+// Hey, where do I start
+.panel-05-05 {
+  left: 3%;
+  top: 67%;
+  width: 18%;
+}
+
+// write a book
+.panel-05-06 {
+  left: 58.75%;
+  top: 65.5%;
+  width: 10%;
+}
+
+// He's not paying attention
+.panel-05-07 {
+  left: 5%;
+  top: 84.5%;
+  width: 22%;
+}
+
+// do lunch with Crockford
+.panel-05-08 {
+  left: 55.5%;
+  top: 86.5%;
+  width: 19%;
+}
+
+// bla bla bla
+.panel-06-01 {
+  left: 16%;
+  top: 13%;
+  width: 17%;
+}
+
+// bla bla bla
+.panel-06-02 {
+  right: 5%;
+  top: 6%;
+  width: 43%;
+  font-size: 1.8em;
+  line-height: 1em;
+  text-align: right;
+}
+
+// I am the JS Samurinja
+.panel-07-01 {
+  left: 1%;
+  top: 3.5%;
+  width: 32%;
+}
+
+// Eh, nope
+.panel-07-02 {
+  right: 2.3%;
+  top: 1.75%;
+  width: 31%;
+}
+
+// Then we will code
+.panel-07-03 {
+  left: 5%;
+  top: 40.5%;
+  width: 18%;
+}
+
+// come on
+.panel-07-04 {
+  right: 18%;
+  top: 16.7%;
+  width: 11%;
+}
+
+// Attack!
+.panel-07-05 {
+  left: 11.3%;
+  top: 59.5%;
+  width: 11%;
+}
+
+// Er, what about
+.panel-07-06 {
+  left: 2%;
+  top: 88.5%;
+  width: 30%;
+}
+
+// Noooooooo!
+.panel-08-01 {
+  left: 50.5%;
+  top: 66.5%;
+  width: 30%;
+}
+// I need help
+.panel-10-01 {
+  left: 45%;
+  top: 39%;
+  width: 25%; 
+}

@@ -7,6 +7,13 @@
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{page.description}}">{% endif %}
     <link rel="stylesheet" href="/css/main.css">
+
+    {% if site.posts.first.style %}
+      <link rel="stylesheet" href="/css/art-direction/{{ site.posts.first.style }}">
+    {% endif %}
+    {% if site.posts.first.googlewebfonts %}
+      <link href='http://fonts.googleapis.com/css?family={{ site.posts.first.googlewebfonts }}' rel='stylesheet' type='text/css'>
+    {% endif %}
     <link rel="author" href="https://plus.google.com/107826425380309081315">
     <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     <script type="text/javascript" src="//use.typekit.net/iqv2amv.js"></script>
@@ -33,23 +40,20 @@
       <div class="wrapper">
         <figure><img src="http://www.gravatar.com/avatar/9b4a53ccacd7c565ff5db519d02bb5d4?s=180" alt="Gravatar for Paddy O’Hanlon" class="gravatar"></figure>
         <article>
-          
-          <p>The Remote Manifesto is the personal website of Paddy O’Hanlon, an Irish web designer, one of the principals at <a href="http://logo24.com">Logo24</a> and co-creater of <a href="http://learnslovenianonline.com">Learn Slovenian Online</a>. He also helps build <a href="http://tito.io">Tito</a>.</p>
-          <p>He is a lover of good semantics, well documented and architected CSS, and beautiful, content-driven design. (Really the design-guise is a cover-up so he can covertly feed his travel addiction and climb many rocks around the world).</p>
-          <p>You can follow him on <a href="http://twitter.com/Paddy">Twitter</a>, <a href="http://instagram.com/paddyohanlon">Instagram</a>, and <a href="https://www.facebook.com/paddyohanlon">Facebook</a>.</p>
-          <p>Need some internet made? <a href="http://logo24.com/listens">Hire Logo24</a>.</p>
+          <p>I am Paddy O’Hanlon, the author The Remote Manifesto. I am an Irish web designer, one of the principals at <a href="http://logo24.com">Logo24</a>. I also help build <a href="http://tito.io">Tito</a>.</p>
+          <p>I love good semantics, well documented and architected CSS, and beautiful, content-driven design. (Really the design-guise is a cover-up so I can covertly feed my travel addiction and climb many rocks around the world with my amazing wife).</p>
+          <p>I tweet about web stuff on <a href="http://twitter.com/Paddy">Twitter</a>, publish photos on <a href="http://instagram.com/paddyohanlon">Instagram</a>, and mostly publish photos on <a href="https://www.facebook.com/paddyohanlon">Facebook</a>.</p>
           <p>The logo for this site, <a href="/articles/2013/10/12/communications-officer-by-mark-doherty.html">the Communications Officer, was created by Mark Doherty</a>. Type is set in <a href="https://typekit.com/fonts/warnock-pro">Warnock Pro</a>, served by <a href="http://typekit.com/">Typekit</a>.</p>
         </article>
       </div>
     </footer>
 
     <script src="js/plugins.js"></script>
-
     <script>
-        var _gaq=[['_setAccount','UA-43461974-1'],['_trackPageview']];
-        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        g.src='//www.google-analytics.com/ga.js';
-        s.parentNode.insertBefore(g,s)}(document,'script'));
+      var _gaq=[['_setAccount','UA-43461974-1'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src='//www.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
     </script>
   </body>
 </html>

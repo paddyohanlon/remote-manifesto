@@ -9,7 +9,7 @@
 http_path = "/"
 
 # 2. probably don't need to touch these
-css_dir = "../css/build/"
+css_dir = "/"
 sass_dir = "./"
 images_dir = "../assets"
 javascripts_dir = "../js"

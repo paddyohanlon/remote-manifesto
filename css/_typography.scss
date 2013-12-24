@@ -92,11 +92,14 @@ ol li {
   @include type-copy;
 }
 
+li p {
+  font-size: 1em; // reducde <p> size when nest in <li> to be same size 24px, and not get scaled up to 1.5 of 24px.
+}
+
 .highlight {
   margin: 1em 0;
   padding: .5em 1em;
 }
-
 
 
 // Pubdate
