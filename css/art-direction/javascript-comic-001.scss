@@ -14,16 +14,20 @@ $handwriting-color: #2E2E2E;
   margin: 2.5em 0;
   padding: .7em;
   font-size: 1.3em;
-  min-width: 44em;
+  overflow: scroll;
 
   @media only screen and (min-width: $break-medium) {
     font-size: 1em;
-    min-width: 0; 
   }
 
   li {
     list-style: none;
+    min-width: 27em;
     position: relative;
+
+    @media only screen and (min-width: $break-medium) {
+      min-width: 0; 
+    }
   }
 
   p {
