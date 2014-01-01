@@ -10,9 +10,13 @@
 
     {% if site.posts.first.style %}
       <link rel="stylesheet" href="/css/art-direction/{{ site.posts.first.style }}">
+    {% elsif page.style %}
+      <link rel="stylesheet" href="/css/art-direction/{{ page.style }}">
     {% endif %}
     {% if site.posts.first.googlewebfonts %}
       <link href='http://fonts.googleapis.com/css?family={{ site.posts.first.googlewebfonts }}' rel='stylesheet' type='text/css'>
+    {% elsif page.googlewebfonts %}
+      <link href='http://fonts.googleapis.com/css?family={{ page.googlewebfonts }}' rel='stylesheet' type='text/css'>
     {% endif %}
     <link rel="author" href="https://plus.google.com/107826425380309081315">
     <script type="text/javascript" src="//use.typekit.net/iqv2amv.js"></script>
