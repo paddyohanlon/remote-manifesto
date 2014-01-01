@@ -8,6 +8,7 @@
     {% for post in site.posts %}
     <url>
         <loc>http://remotemanifesto.com{{ post.url | remove: 'index.html' }}</loc>
+        <lastmod>{{ post.date | date:"%F" }}</lastmod>
     </url>
     {% endfor %}
 
