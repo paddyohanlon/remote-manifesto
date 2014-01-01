@@ -30,7 +30,7 @@ header {
     }
     
     a:hover, a:focus, a:active {
-      color: $color-brand;
+      color: $color-hover;
     }
   }
   
@@ -45,7 +45,7 @@ header {
     @media only screen and (min-width: $break-medium) {
       float: right;
       text-align: right;
-      width: prem(260px);
+      width: 11.25rem;
     }
     
     // “by Paddy O’Hanlon”

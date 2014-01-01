@@ -405,7 +405,7 @@ a, a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #513f21;
+  color: #9470c0;
 }
 
 p a, p a:link, p a:visited,
@@ -541,6 +541,10 @@ ol li {
   font-family: warnock-pro, georgia, sans-serif;
   font-style: normal;
   font-weight: 400;
+}
+
+li p {
+  font-size: 1em;
 }
 
 .highlight {
@@ -700,7 +704,7 @@ header > h1 a, header > h1 a:link, header > h1 a:visited {
   color: #a5a29e;
 }
 header > h1 a:hover, header > h1 a:focus, header > h1 a:active {
-  color: #513f21;
+  color: #9470c0;
 }
 header > h2 {
   color: #a5a29e;
@@ -716,7 +720,7 @@ header > h2 {
   header > h2 {
     float: right;
     text-align: right;
-    width: 16.25rem;
+    width: 11.25rem;
   }
 }
 header > h2 b {
@@ -738,8 +742,13 @@ header > h2 b {
   left: 50%;
   margin-left: -7.125rem;
   position: absolute;
-  top: 6.5rem;
+  top: 8rem;
   width: 14.1875rem;
+}
+@media only screen and (min-width: 26.875em) {
+  .communications-officer img {
+    top: 6.5rem;
+  }
 }
 @media only screen and (min-width: 47.5em) {
   .communications-officer img {
@@ -756,13 +765,9 @@ header > h2 b {
 
 #footer {
   background: #f0e8e0;
-  color: #666666;
   margin-top: 5rem;
   padding: 2rem 0 1.25rem 0;
   position: relative;
-}
-#footer a, #footer a:link, #footer a:visited {
-  color: #666666;
 }
 #footer p {
   font-size: 1.125rem;
@@ -805,15 +810,12 @@ header > h2 b {
     width: 75%;
   }
 }
-#footer article p:nth-last-child(2) {
-  color: #333333;
+#footer article p:first-child {
   font-size: 1.5rem;
   line-height: 2.5rem;
-  font-family: warnock-pro, georgia, sans-serif;
-  font-style: normal;
-  font-weight: 400;
 }
 #footer article p:last-child {
+  color: #666666;
   font-family: warnock-pro, georgia, sans-serif;
   font-style: normal;
   font-weight: 400;

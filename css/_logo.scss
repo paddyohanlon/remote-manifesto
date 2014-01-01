@@ -10,8 +10,12 @@
     left: 50%;
     margin-left: prem(-114px);
     position: absolute;
-    top: prem(104px);
+    top: 8rem;
     width: prem(227px);
+
+    @media only screen and (min-width: $break-very-small) {
+      top: prem(104px);
+    }
     
     @media only screen and (min-width: $break-medium) {
       top: prem(10px);

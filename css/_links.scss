@@ -4,7 +4,7 @@ a, a:link, a:visited {
   @include transition(color, .3s, ease-in-out);
 }
 a:hover, a:focus, a:active {
-  color: $color-brand;
+  color: $color-hover;
 }
 
 p,
