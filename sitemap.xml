@@ -1,0 +1,23 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://remotemanifesto.com/</loc>
+    </url>
+    {% for post in site.posts %}
+    <url>
+        <loc>http://remotemanifesto.com{{ post.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
+
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.layout != 'default' %}
+    <url>
+        <loc>http://remotemanifesto.com{{ page.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</urlset>
