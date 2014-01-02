@@ -548,8 +548,13 @@ li p {
 }
 
 .highlight {
-  margin: 1em 0;
-  padding: .5em 1em;
+  background: #4d3e34;
+  margin: 2em 0 2.5em 0;
+  padding: 1em 2.5em;
+}
+
+.language-text {
+  color: white;
 }
 
 small {
@@ -576,9 +581,10 @@ h2 + p,
 h3 + p,
 h4 + p,
 h5 + p,
+figure + p,
 .lead + p,
 .fleuron + p,
-figure + p {
+.highlight + p {
   text-indent: 0;
 }
 
@@ -843,10 +849,6 @@ img[src*='http://www.gravatar.com'] {
     margin-top: -13rem;
   }
 }
-.highlight {
-  background: #ffffff;
-}
-
 .highlight .c {
   color: #999988;
   font-style: italic;

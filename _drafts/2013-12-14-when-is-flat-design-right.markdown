@@ -2,7 +2,6 @@
 layout: post
 title:  "On design style and trends"
 description: When is a visual style right? And when is it appropriate to go with the trend?
-date:   2013-12-14 18:44:00
 categories: design
 location: Dublin, Ireland
 ---

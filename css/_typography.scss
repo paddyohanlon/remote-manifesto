@@ -96,11 +96,17 @@ li p {
   font-size: 1em; // reducde <p> size when nest in <li> to be same size 24px, and not get scaled up to 1.5 of 24px.
 }
 
+// <div> wraps code blocks
 .highlight {
-  margin: 1em 0;
-  padding: .5em 1em;
+  background: $color-brown;
+  margin: 2em 0 2.5em 0;
+  padding: 1em pem(40px);
 }
 
+// <code> tag with class automatically output by markdown code block
+.language-text {
+  color: $white;
+}
 
 // Pubdate
 small {
@@ -125,9 +131,10 @@ h2,
 h3,
 h4,
 h5,
+figure,
 .lead,
 .fleuron,
-figure {
+.highlight {
   & + p {
     text-indent: 0;
   }

@@ -2,7 +2,6 @@
 layout: post
 title:  "Genetics, Talent, Skill and Natural Fitness"
 description: Are some people naturally fit and others limited by genetics? Opinion-based thoughts on self-imposed limitations.
-date:   2013-11-09 12:12:12
 categories: articles
 location: from the air, between Girona, Catalonia and Dublin, Ireland
 ---
