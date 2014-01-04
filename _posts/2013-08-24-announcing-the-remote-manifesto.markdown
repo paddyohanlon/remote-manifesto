@@ -7,25 +7,11 @@ categories: articles
 location: Kaliningrad, Russia
 ---
 
-<p class="lead">I’m excited to launch my new, web and design, writing home, <em>The Remote Manifesto</em>.</p>
-
-<p>While creating this site, I realised the dominant logic-driven part of my mind is inclined to over focus on technique and technology in search of the “right” design. That often leads to restrictions which are limiting instead of useful, because of being introduced too early. Things like doing layout to a certain grid, or following a typographic scale religiously, before allowing myself improvise freely.</p>
-
-<p>I also realised I was designing the site for my future audience, more than me. A balance has to be struck there, but I found I made decisions on how I imagined my Twitter followers critiquing, and ended up with a first draft that was devoid of my personality.</p>
-
-<h3>Correcting Course</h3>
-
-<p>To reset my creative compass and clear it of interference, I gave myself the freedom to try some weird things—most of which were binned—and to create a visual style I feel at home with.</p>
-
-<p>I like the new design, with a hint of healthy discontent—It’s very simple. As with many personal sites I will self-validate by saying it will be a constant work in progress. For now a version is complete which I’m looking forward to continuing to write on.</p>
-
-<h3>Why The Remote Manifesto?</h3>
-
 <p>Since 2012, I have lived in and worked from Ireland, South Africa, Bulgaria, Denmark, Slovenia, the United States, and Russia. <sup><a href="#emtm" id="footnote1">&#8224;</a></sup> I’m writing from Kaliningrad, Russia, moving to Spain in two weeks—for five months—and moving to Belgium after that.</p>
 
-<aside class="digression" id="emtm"><p><b>&#8224;</b> The travel is mostly due to happily following Lidiya around while she undertakes her amazing masters programme, <a href="http://www.emtmmaster.net/">EMTM</a>. <a class="return-to-text" href="#footnote1" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
+<aside class="digression" id="emtm"><p><b>&#8224;</b> The travel is mostly due to happily following Lidiya, my wife, around Europe while she undertakes her amazing masters programme, <a href="http://www.emtmmaster.net/">EMTM</a>. <a class="return-to-text" href="#footnote1" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
-<p>All the moving about means I have the remote working thing down fairly well. Choosing the title of this blog means I can justify introducing travel anecdotes, and share my nomad-like working experiences, along with design musings.</p>
+<p>All the moving about means I have the remote working thing down fairly well. Choosing the title of this blog means I can justify introducing travel anecdotes, and share my remote working experiences, along with design musings.</p>
 
 <h3>Colophon</h3>
 
