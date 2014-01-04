@@ -3,7 +3,7 @@ layout: post
 title:  "The Spanish-in-30-Days Experiment: Introduction"
 description: An experiment to learn Spanish in 30 with Tim Ferriss’ 4-Hour Chef methods.
 date:   2013-09-10 09:41:00
-categories: experiment
+categories: experiments
 location: Girona, Catalonia
 ---
 

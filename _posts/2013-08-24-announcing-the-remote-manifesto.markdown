@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Good Design is more than Technique and Technology"
-description: Launching the new personal website of Paddy O’Hanlon and sharing the story of its making.
+title:  "Introducing The Remote Manifesto"
+description: Announcing The Remote Manifesto, the new blog from Paddy O’Hanlon. Writing down thoughts on the web, travel &amp; remote working life.
 date:   2013-08-24 10:20:00
-categories: creative-process
+categories: articles
 location: Kaliningrad, Russia
 ---
 
 <p class="lead">I’m excited to launch my new, web and design, writing home, <em>The Remote Manifesto</em>.</p>
 
-<p>While creating this site, I realised the dominant logic-driven part of my mind is inclined to over focus on technique and technology in search of the “right” design. That often leads to restrictions which are limiting instead of useful, because of being introduced to early. Things like doing layout to a certain grid, or following a typographic scale religiously, before allowing myself improvise freely.</p>
+<p>While creating this site, I realised the dominant logic-driven part of my mind is inclined to over focus on technique and technology in search of the “right” design. That often leads to restrictions which are limiting instead of useful, because of being introduced too early. Things like doing layout to a certain grid, or following a typographic scale religiously, before allowing myself improvise freely.</p>
 
 <p>I also realised I was designing the site for my future audience, more than me. A balance has to be struck there, but I found I made decisions on how I imagined my Twitter followers critiquing, and ended up with a first draft that was devoid of my personality.</p>
 
