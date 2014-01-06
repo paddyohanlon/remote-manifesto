@@ -2,7 +2,6 @@
 layout: post
 title:  "On design style and trends"
 description: When is a visual style right? And when is it appropriate to go with the trend?
-date:   2013-12-14 18:44:00
 categories: design
 location: Dublin, Ireland
 ---
@@ -105,3 +104,13 @@ Regarding flat design, I think visual styling is something that is very project-
 There’ll always be people who want the latest trends, and that’s okay. I think the best way to approach these things is to have a solid base of a good grid, good typography, and suitable imagery. Once you have those, you can dress up or dress down the style accordingly.
 
 As with anything, moderation is the key. Not too flat, not too texture-heavy.
+
+Kilian:
+
+I’ve always tended towards the flatter style, even in college. I was a type man through and through so most of my work (after the grungey distorted phase that I went through at the very beginning before college) was trying to be minimalist.
+
+As for choosing whether to use it on a project, I tend to think through a couple of things. 
+
+If the audience or feeling off the product or service is supposed to be fun it can sometimes make sense to incorporate more skeuomorphic elements for emphasis, if the interface should be noticed vs dissolving away and getting out of the users way.
+
+As far as trends, if I think the particular device is useful for conveying the message I say why not go with a trend. Sometimes these things are trends because they are flashy, but other times they’re trends because they solve a problem that we’ve had for a long while and it does it nicely/elegantly. I’ve become partial to the height: 100% on the first container as it gives a consistent experience to all users who visit that page regardless of browser height. Things like parallax to me are a pain in the ass as a user. I’ve never used it and there might be 3 examples I’ve ever enjoyed and that were used to good effect.

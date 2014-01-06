@@ -20,17 +20,22 @@ Examples:
   margin: 2.5em 0;
   padding: .7em;
   font-size: 1.3em;
-  min-width: 44em;
+  overflow: scroll;
 }
 @media only screen and (min-width: 47.5em) {
   .javascript-comic-001 {
     font-size: 1em;
-    min-width: 0;
   }
 }
 .javascript-comic-001 li {
   list-style: none;
+  min-width: 27em;
   position: relative;
+}
+@media only screen and (min-width: 47.5em) {
+  .javascript-comic-001 li {
+    min-width: 0;
+  }
 }
 .javascript-comic-001 p {
   color: #2e2e2e;

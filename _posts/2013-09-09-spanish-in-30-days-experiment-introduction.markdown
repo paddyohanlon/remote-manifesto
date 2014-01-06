@@ -3,7 +3,7 @@ layout: post
 title:  "The Spanish-in-30-Days Experiment: Introduction"
 description: An experiment to learn Spanish in 30 with Tim Ferriss’ 4-Hour Chef methods.
 date:   2013-09-10 09:41:00
-categories: experiment
+categories: experiments
 location: Girona, Catalonia
 ---
 
@@ -89,9 +89,9 @@ Language exchanges I will try to arrange twice a week after the first week. From
 
 #### Encoding
 
-I’ve successfully used something along the lines of the [Link Word](http://en.wikipedia.org/wiki/Linkword) method, where I create associations with words and use visualisation to help remember. For example, today I learned the Spanish word for apple, “canzana”. I broke that down to can-zan-a, and imagined Billy Zane holding an apple over his head and saying to himself, “Billy ZANe CAN Apple!”. I also imagine myself in the visualisation looking at him, thinking that’s pretty weird—a Michel Thomas tip. 
+I’ve successfully used something along the lines of the [Link Word](http://en.wikipedia.org/wiki/Linkword) method, where I create associations with words and use visualisation to help remember. For example, today I learnt the Spanish word for apple, “manzana”. I broke that down to man-zan-a, and imagined Billy Zane holding an apple over his head and saying to himself, “Billy ZANe is the MAN!”. I also imagine myself in the visualisation looking at him, thinking that’s pretty weird—a Michel Thomas tip. 
 
-That’s not the most eloquent example—the words need to be reversed CAN ZAN A, and ZAN is pronounced differently than Zane—but it’s effective in that, while I’m committing the word to memory, when I think of an apple, I imagine that crazy visualisation and extract the syllables.
+That’s not the most eloquent example—the words need to be reversed MAN ZAN A, and ZAN is pronounced differently than Zane—but it’s effective in that, while I’m committing the word to memory, when I think of an apple, I imagine that crazy visualisation and extract the syllables.
 
 ### The Starting Line
 

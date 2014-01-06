@@ -1,23 +1,36 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, user-scalable=yes">
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{page.description}}">{% endif %}
+    <link rel="canonical" href="http://remotemanifesto.com{{ page.url | replace:'index.html','' }}" />
     <link rel="stylesheet" href="/css/main.css">
 
     {% if site.posts.first.style %}
       <link rel="stylesheet" href="/css/art-direction/{{ site.posts.first.style }}">
+    {% elsif page.style %}
+      <link rel="stylesheet" href="/css/art-direction/{{ page.style }}">
     {% endif %}
     {% if site.posts.first.googlewebfonts %}
       <link href='http://fonts.googleapis.com/css?family={{ site.posts.first.googlewebfonts }}' rel='stylesheet' type='text/css'>
+    {% elsif page.googlewebfonts %}
+      <link href='http://fonts.googleapis.com/css?family={{ page.googlewebfonts }}' rel='stylesheet' type='text/css'>
     {% endif %}
     <link rel="author" href="https://plus.google.com/107826425380309081315">
-    <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
     <script type="text/javascript" src="//use.typekit.net/iqv2amv.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43461974-1', 'remotemanifesto.com');
+      ga('send', 'pageview');
+
+    </script>
   </head>
   <body>
     <header>
@@ -31,7 +44,7 @@
           </a>
         </span>
       </h1>
-      <h2>Thoughts on the web, design &amp; life <b>by <a href="#footer">Paddy O’Hanlon</a></b></h2>
+      <h2>Thoughts on the web, travel &amp; remote working life <b>by <a href="#footer">Paddy O’Hanlon</a></b></h2>
     </header>
     <div class="wrapper">
       {{ content }}
@@ -40,20 +53,13 @@
       <div class="wrapper">
         <figure><img src="http://www.gravatar.com/avatar/9b4a53ccacd7c565ff5db519d02bb5d4?s=180" alt="Gravatar for Paddy O’Hanlon" class="gravatar"></figure>
         <article>
-          <p>I am Paddy O’Hanlon, the author The Remote Manifesto. I am an Irish web designer, one of the principals at <a href="http://logo24.com">Logo24</a>. I also help build <a href="http://tito.io">Tito</a>.</p>
-          <p>I love good semantics, well documented and architected CSS, and beautiful, content-driven design. (Really the design-guise is a cover-up so I can covertly feed my travel addiction and climb many rocks around the world with my amazing wife).</p>
-          <p>I tweet about web stuff on <a href="http://twitter.com/Paddy">Twitter</a>, publish photos on <a href="http://instagram.com/paddyohanlon">Instagram</a>, and mostly publish photos on <a href="https://www.facebook.com/paddyohanlon">Facebook</a>.</p>
-          <p>The logo for this site, <a href="/articles/2013/10/12/communications-officer-by-mark-doherty.html">the Communications Officer, was created by Mark Doherty</a>. Type is set in <a href="https://typekit.com/fonts/warnock-pro">Warnock Pro</a>, served by <a href="http://typekit.com/">Typekit</a>.</p>
+          <p>I’m Paddy O’Hanlon, Irish web designer and one of the principals at <a href="http://logo24.com">Logo24</a>. I also help build <a href="http://tito.io">Tito</a>.</p>
+          <p>The Remote Manifesto is where I share my opinions on the web, design, travel and remote working life. I currently live in Girona, Catalonia, with my amazing wife, Lidiya.</p>
+          <p>I tweet as <a href="http://twitter.com/Paddy">@Paddy</a>, occasionally share photos on <a href="http://instagram.com/paddyohanlon">Instagram</a>, and post about my travels on <a href="https://www.facebook.com/paddyohanlon">Facebook</a>.</p>
+          <p>The logo for this site, the <a href="/articles/2013/10/12/communications-officer-by-mark-doherty.html">Communications Officer</a>, was created by Mark Doherty. Type is set in <a href="https://typekit.com/fonts/warnock-pro">Warnock Pro</a>, served by <a href="http://typekit.com/">Typekit</a>.</p>
         </article>
       </div>
     </footer>
-
     <script src="js/plugins.js"></script>
-    <script>
-      var _gaq=[['_setAccount','UA-43461974-1'],['_trackPageview']];
-      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src='//www.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g,s)}(document,'script'));
-    </script>
   </body>
 </html>
