@@ -7,9 +7,7 @@ tags: Jekyll
 location: Girona, Catalonia
 ---
 
-My blog runs on [Jekyll](http://jekyllrb.com) and for my previous post, [Don’t Fear JavaScript: The Comic](http://remotemanifesto.com/code/2013/12/23/dont-fear-javascript-the-comic.html), I wanted to include a stylesheet and web font specific to that post — to style the comic strip panels while not adding unneccesary weight to other posts.
-
-How to do post specific CSS with Jekyll has been documented, but all examples I found only explained how to include a stylesheet in individual posts, and not on a site homepage, index.html. I feature my latest post in full on the homepage and so need any styles specific to it included there, and in this case I needed a web font specific to the post too.
+How to do post specific CSS with [Jekyll](http://jekyllrb.com) has been documented, but all examples I found only explained how to include a stylesheet in individual posts, and not on a site homepage, index.html. I feature my latest post in full on the homepage and so need any styles specific to it included there, and in this case I needed a web font specific to the post too.
 
 My site’s directory structure looks something like this:
 
@@ -53,7 +51,7 @@ The first if statement checks to see if the latest post on index.html has a styl
 
 The second statement checks to see if the file being generated is a post, as in Jake’s code snippet, and if it has a style variable in its front-matter. If it does the link to the named stylesheet is created.
 
-You’ll notice I also opted for a separate stylesheet file, instead of adding inline styles, kept in an art-direction folder.
+I opted for a separate stylesheet file, instead of adding inline styles, kept in an art-direction folder.
 
 ### Adding the web font
 
@@ -73,7 +71,7 @@ To include the Google web font I used the same setup, only using a “googlewebf
     {% endif %}
     {% endraw %}
 
-And my front-matter for the comic post looks like this:
+And my front-matter for the [Don’t Fear JavaScript: The Comic](http://remotemanifesto.com/code/2013/12/23/dont-fear-javascript-the-comic.html) post looks like this:
 
     {% raw %}
     ---
@@ -89,5 +87,3 @@ And my front-matter for the comic post looks like this:
     googlewebfonts: Gloria+Hallelujah
     ---
     {% endraw %}
-
-That’s it. I considered working out a way to tidy up the “if else” statements, but the beauty of a static site generator is that the files are static, so there is nothing to be gained from brevity in this case.
