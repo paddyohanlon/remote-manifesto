@@ -6,17 +6,9 @@ categories: design
 location: Dublin, Ireland
 ---
 
-Goal for blog, why am I writing?
-To learn, clarify thoughts, develop articulation and critical thinking skills.
-(Attract an audience, self promote, maybe market in future)
-
-I want to force myself to write regularly. Weekly, to publish a personal magazine which can include:
-
-1. Article - has to be something I would send to Dave to review.
-2. What I learned css/js/web tech/design tech/personal
-3. Pick of the week: book, podcast, blog post, activity, movie, website.
-4. Photo of the week
-
+Denis Johnson - read Jesus' Son
+Move to editorially, do outline.
+Mandy approach for writing posts?
 
 ---------
 
@@ -24,17 +16,21 @@ I want to force myself to write regularly. Weekly, to publish a personal magazin
 
 * Explain where my questioning starting, when I realised I didn' know how to evaluate a visual style, and why this is important. (maybe reasons can be implicit)
 
-I realised that I've expressed an opinion on a current design trend several times, but am not sure if I can actually put my words into practice. A client recently stated they love the flat design thing. And I had no retort. I asked why, 'because it's hot right now and looks great done right'. ok, and then I couldn't counter with a good reason to explore to invest in exploring other styles, or think of reasons the trend might be inappropriate, beyond a feeling that it was the right thing to do.On the topic of whether said trend is good/bad/right to use/what's my opinion. I've retorted with 'trends are just an option which is popular at the moment, doesn't make it good or bad, if the style is right for a project, that's the indicator'. It seems fundemental to be able to define the right style for a project to communicate our work in the right way, and to know we're making the best decisions.
+My take on visual design trends has been that they are just popular options. A a trending style isn't necessarily good or bad, if the style is right for a project, it's right. It seems fundamental to be able to define the right style for a project to communicate our message in the right way, and to know we're making the best decisions, but I found myself doubting my judgement for the right visual design for a recent project, in particular how to evaluate a client's request to make all the things flat, and to argue.
 
 ## On trends, caveats, bubble
 
-Of course there are things to consider, like over popularity. But what do I even mean by that... That if you choose a visual style for the right reasons, but it happens to be trending, then you could sucumbe to the fact that users perception will change based on over popularity and it's resulting lack of originality and increasing banality, even though you actually made the right 'timeless' decision? Although it feels like there is a grain of ideology with good intent there, there also exists an alternate universe in which the right design style triumphs over the evil of the trend, and users are so enlightened as to appreciate the shallow sways in popularity for what they really are and appreciate and understand the designers masterful work objectively.
+Of course there are things to consider, like over popularity. That if you choose a visual style for the right reasons, but it happens to be trending, then you could sucumbe to the fact that users perception will change based on over popularity and it's resulting lack of originality and increasing banality, even though you actually made the right 'timeless' decision? Although it feels like there is a grain of ideology with good intent there, there also exists an alternate universe in which the right design style triumphs over the possible evils of a trend, and users are so enlightened as to appreciate the shallow sways in popularity for what they really are and appreciate and understand the designers masterful work objectively. The right choice is with consideration to trend behaviour.
 
-Well... In that world designers also their designer tool of choice high over head and shout 'by the power of greyskull'
+In this alternate utopian world, designers regularly raise their pencils high over head and shout 'by the power of greyskull. I have the aesthetic!'
 
-What about the trend. Clients want flat. It's current and cool. It makes them look good, like a new in fashion suit. Considerations are the bursting bubble as we get bored of that style. But timed right, maybe that's ok. An argument can be made for longevity, timeless design sounds like such a beautiful ideal. The website is more valuable... it will last for years. But there are many more things to consider in web design than visual style. Techonology. new browser capabilities. new devices. The ideal of timeless style in print doesn't perhaps exist on the web. A 5 year update cycle might be not just acceptable, but good.
+A client wants the ambiguous flat ui. It's current and cool, but perhaps not the best choice. I reached out to a few designers I admire for their thoughts on process for developing style and how to communicate with clients that come with a priscription.
 
-Not Tan's site, timeless flatness.
+Trent said to ask 'Why'
+
+I thought about the argument for timelessness. Massimo's work comes to mind. And this web site. One of my favourite's. Also the 24ways site... sham. (archive)
+
+Not Tan's site, timeless flatness. or personal taste?
 
 Originality in the trend. Vs copying. (Don't steal sheep?) Taking inspiration vs copying. Lack of thought, input, research.
 
@@ -114,3 +110,20 @@ As for choosing whether to use it on a project, I tend to think through a couple
 If the audience or feeling off the product or service is supposed to be fun it can sometimes make sense to incorporate more skeuomorphic elements for emphasis, if the interface should be noticed vs dissolving away and getting out of the users way.
 
 As far as trends, if I think the particular device is useful for conveying the message I say why not go with a trend. Sometimes these things are trends because they are flashy, but other times they’re trends because they solve a problem that we’ve had for a long while and it does it nicely/elegantly. I’ve become partial to the height: 100% on the first container as it gives a consistent experience to all users who visit that page regardless of browser height. Things like parallax to me are a pain in the ass as a user. I’ve never used it and there might be 3 examples I’ve ever enjoyed and that were used to good effect.
+
+
+Jon:
+
+Hi Paddy,
+
+4. I haven’t written about my thoughts, or even documented my own process, and yet, that’s the answer in my mind: Design is a process, not a product. The aesthetic is an output of that process: the best fit for:
+
+a. The experience required to meet organisational objectives (enacted versus emergent narrative)
+b. The context of use and content (designing for impact or immersion, or both), 
+c. The audience (mental models, historical cultural landscape, and expectations)
+
+That’s not a comprehensive, or prioritised list by any means, but may give you some idea of my thinking here. If any of this seems confusing, please feel free to ask questions. I’ll try and respond fast!
+
+I can’t think of ny resources right at this moment.
+
+Good luck with the piece and thanks again!
