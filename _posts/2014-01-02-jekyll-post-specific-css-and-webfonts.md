@@ -7,7 +7,7 @@ tags: Jekyll
 location: Girona, Catalonia
 ---
 
-How to do post specific CSS with [Jekyll](http://jekyllrb.com) has been documented, but all examples I found only explained how to include a stylesheet in individual posts, and not on a site homepage, index.html. I feature my latest post in full on the homepage and so need any styles specific to it included there, and in this case I needed a web font specific to the post too.
+How to do post specific CSS with [Jekyll](http://jekyllrb.com) has been documented, but all examples I found only explain how to include a stylesheet in individual posts, and not on a site homepage, index.html. I feature my latest post in full on the homepage and so need any styles specific to it included there, and in this case I needed a web font specific to the post too.
 
 My site’s directory structure looks something like this:
 
