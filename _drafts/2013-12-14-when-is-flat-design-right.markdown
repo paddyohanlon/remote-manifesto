@@ -12,6 +12,8 @@ Mandy approach for writing posts?
 
 ---------
 
+What new thing am I talking about? Talking to clients about trends? The process of qualification, examples.
+
 ## Intro/The Setup/Preface
 
 * Explain where my questioning starting, when I realised I didn' know how to evaluate a visual style, and why this is important. (maybe reasons can be implicit)
@@ -127,3 +129,14 @@ That’s not a comprehensive, or prioritised list by any means, but may give you
 I can’t think of ny resources right at this moment.
 
 Good luck with the piece and thanks again!
+
+
+Add list of references
+
+ Quote
+
+ http://en.wikipedia.org/wiki/Aesthetics - For Francis Hutcheson beauty is disclosed by an inner mental sense, but is a subjective fact rather than an objective one. Analytic theorists like Henry Home, Lord Kames, William Hogarth, and Edmund Burke hoped to reduce beauty to some list of attributes. Hogarth, for example, thinks that beauty consists of (1) fitness of the parts to some design; (2) variety in as many ways as possible; (3) uniformity, regularity or symmetry, which is only beautiful when it helps to preserve the character of fitness; (4) simplicity or distinctness, which gives pleasure not in itself, but through its enabling the eye to enjoy variety with ease; (5) intricacy, which provides employment for our active energies, leading the eye on "a wanton kind of chase"; and (6) quantity or magnitude, which draws our attention and produces admiration and awe. Later analytic aestheticians strove to link beauty to some scientific theory of psychology (such as James Mill) or biology (such as Herbert Spencer).
+
+ http://www.viddler.com/v/9b7e9501
+ http://elliotjaystocks.com/blog/destroy-the-web-20-look-future-of-web-design-new-york/
+ http://v1.jontangerine.com/log/2011/03/web-design-as-narrative-architecture
