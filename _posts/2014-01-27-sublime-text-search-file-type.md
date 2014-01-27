@@ -13,4 +13,4 @@ In the ‘Where’ field, enter `\*.fileextension`. E.g. `\*.scss`, to search on
 
 <img src="/assets/sublime-text-search-file-type.png" alt="Screenshot of Sublime Text 2, showing searching by a specific file type, specifically *.scss">
 
-Before I found this option I was excluding .css files from projects. That confused the heck out of me several times, wondering where all my CSS files had gone, forgetting I had added that setting.
+Before I found this option I was excluding .css files from projects via settings. That confused the heck out of me several times, wondering where all my CSS files had gone, forgetting I had added that setting.
