@@ -405,7 +405,7 @@ a, a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #9470c0;
+  color: #7a4db0;
 }
 
 p a, p a:link, p a:visited,
@@ -710,7 +710,7 @@ header > h1 a, header > h1 a:link, header > h1 a:visited {
   color: #a5a29e;
 }
 header > h1 a:hover, header > h1 a:focus, header > h1 a:active {
-  color: #9470c0;
+  color: #7a4db0;
 }
 header > h2 {
   color: #a5a29e;
