@@ -81,6 +81,12 @@ h5 {
 p {
   $font-size: 24px;
   @include scale(text-indent, 40px, $font-size);
+
+  code {
+    background: $inline-code-highlight;
+    font-size: .85em;
+    @include scale(padding, 5px, $font-size);
+  }
 }
 
 p,

@@ -531,6 +531,12 @@ p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   text-indent: 1.66667em;
 }
+p code {
+  background: #ebd6c8;
+  font-size: .85em;
+  /* unwrap lists for values that have multiple list of values such as text-shadow */
+  padding: 0.20833em;
+}
 
 p,
 ul li,
