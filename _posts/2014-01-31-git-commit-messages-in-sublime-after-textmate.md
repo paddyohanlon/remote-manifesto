@@ -7,7 +7,7 @@ tags: Sublime Text
 location: Girona, Catalonia
 ---
 
-After switching from TextMate to [Sublime Text](http://www.sublimetext.com/) I failed to update the setting to open Git commit messages in my new text editor many times. When I did `git commit`, TextMate would open for me to log the commit message, which I liked a lot.
+After switching from TextMate to [Sublime Text](http://www.sublimetext.com/) I failed to update the setting to open Git commit messages in my new text editor many times. When I did `git commit`, TextMate would open for me to log the commit message, which I liked a lot. I wanted that to work with Sublime.
 
 The [Sublime Text docs for working in the terminal on a Mac](http://www.sublimetext.com/docs/2/osx_command_line.html) say, set up a symlink, so ‘subl’ can be used as a command. Like so:
 
