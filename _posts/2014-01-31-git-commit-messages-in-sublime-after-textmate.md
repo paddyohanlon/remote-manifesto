@@ -26,3 +26,7 @@ The missing piece was that I forgot I had explicitly set TextMate as my Git edit
 Here’s a video—sure to go viral—of my commit process: committing this post, writing the commit message in Sublime Text, and deploying to [GitHub Pages](http://pages.github.com/).<sup><a href="#git-commit-messages-footnote" id="git-commit-messages-footnote-link">&#8224;</a></sup>
 
 <aside class="tangent" id="git-commit-messages-footnote"><p><b>&#8224;</b> My site runs on static-site generating CMS, [Jekyll](http://jekyllrb.com/) <a class="return-to-text" href="#git-commit-messages-footnote-link" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
+
+<div class="video">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/6BjR4DNILPw" frameborder="0" allowfullscreen></iframe>  
+</div>
