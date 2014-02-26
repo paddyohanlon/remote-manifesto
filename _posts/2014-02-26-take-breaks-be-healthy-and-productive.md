@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Take more breaks and be more healthy and productive"
+title:  "Take more breaks to be more healthy and productive"
 description: I use the Pomodoro technique to force myself to get out of my chair more often.
 categories: health
 tags: productivity
@@ -9,15 +9,15 @@ location: Brussels, Belgium
 
 They say sitting is the new smoking. “They” say a lot of things, and are more often quoted than anyone else I can think of, so I generally trust them.
 
-As sit-in-front-of-the-computer-all-day people, I imagine most of us in the web community are quite stationary. Particularly during working hours. My solution to getting out of my chair more often, to be a little healtier, with the added benefit of being more productive, is the Pomodoro Technique.
+As sit-in-front-of-the-computer-all-day people, most of us in the web community are quite stationary. Particularly during working hours. My solution to getting out of my chair more often, to be a little healthier, with the added benefit of being more productive, is the [Pomodoro Technique](http://pomodorotechnique.com/).
 
-The technique works on the basis of 25 minute task-focused working periods, followed by a 5 minute break. You set a timer for each period—I use [E.gg](#).After four 25 minute sessions, you take a 10 minute break, and repeat. Each break is a reset, which hampers procrasination.
+The technique works on the basis of 25 minute task-focused working periods, followed by a 5 minute break. You set a timer for each period—I use [e.ggtimer.com](http://e.ggtimer.com/) and Elliot Jay Stock’s [Countdone](http://viewportindustries.com/countdone). After four 25 minute sessions, you take a 20 minute break, and repeat. Each break is a reset, which hampers procrasination.
 
 I was skeptical of the technique at first. I believed I worked in 2-4 hour productive blocks, with head phones in and no moving from my chair, or distractions. I was sure a timer would break my flow and slow me down.
 
-It turns out it’s [proven](#)—that the break periods really increase focus and producity, as well as maintain energy levels. Or at least maximise them, avoiding exhaustion at the end of the day.
+The break periods really do increase focus and producity though, as well as maintain energy levels. Or at least maximise them, reducing chances of exhaustion at the end of the day.
 
-When I slack off and don’t stick to the system, I usually notice when I get tired. When I’ve been working solidly for a few hours and realise I’ve been staring at a screen blankly for 10 minutes. That’s my que for a break, and to start setting my timer again.
+When I slack off and don’t stick to the system, I usually notice when I get tired. When I’ve been working solidly for a few hours and realise I’ve been staring at a screen blankly for 10 minutes. That’s my cue for a break, and to start setting my timer again.
 
 The timer is critical. Thinking that you’ll somehow remember to take a break in exactly 25 minutes is wishful at best.
 
