@@ -37,7 +37,8 @@ body {
 article {
   img {
     border-radius: 2px;
-    margin: pem(40px) 0;
+    display: block;
+    margin: pem(40px) auto;
     max-width: 100%;
   }
 }

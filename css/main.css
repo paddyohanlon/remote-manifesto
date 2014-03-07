@@ -1268,7 +1268,8 @@ body {
 
 article img {
   border-radius: 2px;
-  margin: 2.5em 0;
+  display: block;
+  margin: 2.5em auto;
   max-width: 100%;
 }
 
