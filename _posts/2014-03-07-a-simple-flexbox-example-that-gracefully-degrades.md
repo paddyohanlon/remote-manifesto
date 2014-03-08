@@ -7,7 +7,7 @@ tags: CSS
 location: Brussels, Belgium
 ---
 
-The CSS layout module `flexbox` is awesome, but one of its main criticisms is the lack of a fallback for non-supporting browsers. Unlike `border-radius` for example, where round corners will fallback to square corners, flexbox layouts will get completely messed up in most cases. Most, but not all.
+The CSS layout module `flexbox` is incredibly promising, but one of its main criticisms is the lack of a fallback for non-supporting browsers. Unlike `border-radius`, for example, where round corners will fallback to square corners, flexbox layouts will get completely messed up in most cases. Most, but not all.
 
 Here is a simple use of flexbox I implemented recently on a commercial site, which gracefully degrades.
 
