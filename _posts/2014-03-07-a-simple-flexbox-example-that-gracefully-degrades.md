@@ -39,7 +39,7 @@ There is design question as to whether this technique should be used as it is in
 
 The decision was made to have the image appear before title on small screens so people could see the featured image or video for the latest post above “the fold”. It makes sense as the site’s content, and business model, is focused around image and video based media. The majority of people accessing the site with a mobile device use an iPhone, and mobile Safari and Chrome now both support `flexbox`, so the primary mobile audience are delivered what is considered to be the best experience. Users with non-supporting devices still have access to the same content, they just have to scroll a little generally.
 
-## Further Flexbox Reading
+### Further Flexbox Reading
 
 * [Using Flexible Boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes), MDN.
 * [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/), CSS Tricks.

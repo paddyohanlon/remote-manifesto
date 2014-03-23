@@ -527,6 +527,14 @@ h5 {
   font-weight: 600;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+}
+
 p {
   /* unwrap lists for values that have multiple list of values such as text-shadow */
   text-indent: 1.66667em;
@@ -578,8 +586,8 @@ small + p {
 }
 
 h2 + small {
-  margin: 0 0 2em 0;
-  text-align: left;
+  margin: .25em 0 2em 0;
+  text-align: center;
 }
 
 h1 + p,
