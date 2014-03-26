@@ -30,7 +30,7 @@ I’m a little worried about publishing this. Or sharing my thoughts on gender a
 
 <div class="fleuron">&#9753;</div>
 
-Maclemore’s, A Wake, just came to mind. No serious connection with the post, just for enjoyment.
+Macklemore’s, A Wake, just came to mind. No serious connection with the post, just for enjoyment.
 
 <div class="video">
   <iframe width="420" height="315" src="//www.youtube.com/embed/1qidKNA1D8M" frameborder="0" allowfullscreen></iframe>
