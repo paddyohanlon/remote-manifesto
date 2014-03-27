@@ -4,10 +4,25 @@
   <title>InstaType</title>
   <script type="text/javascript" src="js/functions.js"></script>
 </head>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  
+  $.ajax({
+    url: "test.html",
+    context: document.body
+  }).done(function() {
+    $( this ).addClass( "done" );
+    console.log('done! bitch');
+  });
+
+}); 
+</script>
 <body>
 
   <ul>
-    <li>
+    <li class="test">
       <a href="https://instagram.com/oauth/authorize/?client_id=29d7054b244845099ee42707072b210b&redirect_uri=http://localhost:4000/instatype/&response_type=token">Connect to Instagram to get your photos</a>
     </li>
     <li>
