@@ -7,18 +7,27 @@
 
   <script type="text/javascript">
   jQuery(document).ready(function($) {
-    
+
     $.ajax({
-      url: "https://api.instagram.com/v1/media/popular?client_id=29d7054b244845099ee42707072b210b",
-      context: document.body
-    }).done(function() {
-      $( this ).addClass( "done" );
-      console.log('done! bitch');
+        method: "GET",
+        url: "https://api.instagram.com/v1/media/popular?client_id=29d7054b244845099ee42707072b210b",
+        dataType: "jsonp",
+        jsonp : "callback",
+        jsonpCallback: "jsonpcallback",
+        success: function(data) {
+            console.log('success');
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+            console.log('error');
+        },
+        complete: function() {
+          console.log('complete');
+        }
     });
 
   }); 
   </script>
-  
+
 </head>
 <body>
 
