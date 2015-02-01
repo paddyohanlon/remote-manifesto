@@ -38,15 +38,15 @@ body {
   }
 }
 
-h1 {
-  $font-size: 71px;
-  font-size: pem($font-size);
-  @include scale(line-height, 75px, $font-size);
-  @include scale(margin-bottom, 25px, $font-size);
-  @include type-display;
-}
+// h1 {
+//   $font-size: 71px;
+//   font-size: pem($font-size);
+//   @include scale(line-height, 75px, $font-size);
+//   @include scale(margin-bottom, 25px, $font-size);
+//   @include type-display;
+// }
 
-h2 {
+h1, h2 {
   $font-size: 48px;
   font-size: pem($font-size);
   @include scale(line-height, 61px, $font-size);
@@ -54,7 +54,7 @@ h2 {
   @include type-subheading;
 }
 
-h3 {
+h2 {
   $font-size: 32px;
   font-size: pem($font-size);
   @include scale(line-height, 43px, $font-size);
@@ -62,7 +62,7 @@ h3 {
   @include type-subheading;
 }
 
-h4 {
+h3 {
   $font-size: 26px;
   font-size: pem($font-size);
   @include scale(line-height, 40px, $font-size);
@@ -70,7 +70,7 @@ h4 {
   @include type-subheading;
 }
 
-h5 {
+h4 {
   $font-size: 20px;
   font-size: pem($font-size);
   @include scale(line-height, 43px, $font-size);
@@ -135,7 +135,7 @@ small {
   }
 }
 
-h2 + small {
+h1 + small {
   margin: .25em 0 2em 0;
   text-align: center;
 }

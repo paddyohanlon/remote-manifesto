@@ -25,7 +25,7 @@ My site’s directory structure looks something like this:
     |   └── index.md
     └── index.html
 
-### Adding the stylesheet
+## Adding the stylesheet
 
 I started by following [Jake Bresnehan’s write up](http://web-design-weekly.com/blog/2013/04/07/unique-post-styling-with-jekyll/), which shows how to add inline styles to a post. The following is added to default.html, in the `<head>`:
 
@@ -53,7 +53,7 @@ The second statement checks to see if the file being generated is a post, as in 
 
 I opted for a separate stylesheet file, instead of adding inline styles, kept in an art-direction folder.
 
-### Adding the web font
+## Adding the web font
 
 To include the Google web font I used the same setup, only using a “googlewebfonts” variable in the front-matter:
 

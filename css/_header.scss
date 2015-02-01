@@ -10,8 +10,8 @@ header {
     padding-bottom: 0;
   }
   
-  // <h1> logo
-  & > h1 {
+  // <div class="logo"> logo
+  & > .logo {
     font-size: prem(29px);
     line-height: prem(33px);
     margin: 0 0 prem(2px) 0;
@@ -34,10 +34,10 @@ header {
     }
   }
   
-  // <h2> subheading
-  & > h2 {
+  // <div> tagline
+  & > .tagline {
     color: darken($color-faded,0%);
-    margin-top: 0;
+    margin: 0;
     text-align: center;
     @include type-italic;
     @include type-size-small;
@@ -45,7 +45,7 @@ header {
     @media only screen and (min-width: $break-medium) {
       float: right;
       text-align: right;
-      width: 11.25rem;
+      width: 13rem;
     }
     
     // “by Paddy O’Hanlon”

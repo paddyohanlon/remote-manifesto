@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  <h2>{{ page.title }}</h2>
+  <h1>{{ page.title }}</h1>
   <small>Written from {{ page.location }}</small>
   {{ content }}
   <small>Published by <a href="#footer">Paddy</a> on {{ page.date | date_to_string }}</small>
@@ -28,7 +28,7 @@ layout: default
 
 <div class="asterism">&#8258;</div>
 
-<h3>Article Index</h3>
+<h2>Article Index</h2>
 <ul>
   {% for post in site.posts %}
     {% if page.id == post.id %}

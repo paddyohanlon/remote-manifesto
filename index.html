@@ -8,7 +8,7 @@ description: The blog of Irish web designer, Paddy O’Hanlon, on design, travel
 {% assign content = post.content %}
 
 <article>
-  <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+  <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
   <small>Written from {{ post.location }}</small>
   {{ post.content }}
   <small>Published by <a href="#footer">Paddy</a> on {{ post.date | date_to_string }}</small>

@@ -30,7 +30,7 @@ While collecting the harvest, Sasha seemed to handle the 20 kg potato sacks comf
 
 A healthy and active life of drinking and smoking abstinence certainly contributes to his vitality, but I also believe he draws much strength from particular character traits. Before sharing my thoughts on that however, enter some light industrial design observations.
 
-### The Six Wheel Drive Potato Harvesting Machine
+## The Six Wheel Drive Potato Harvesting Machine
 
 Sasha skillfully commands this machine. It’s used for digging up, and then transporting the potatoes. It’s also used generally as a tractor & trailer for other tasks.
 
@@ -52,7 +52,7 @@ Then there’s the externally mounted pull-string motor, and the two-lever steer
 
 <p class="flush">Although far from elegant, or what I imagine most people would consider beautiful, the six wheel drive machine is absolutely functional. And although not beautiful, I don’t find it ugly, I enjoy looking at it. In the context of Sasha and Lida’s garden—their “огород” (pronounced agarod), originally a state endowed allotment, later purchased by the couple— it works both in form and function.</p>
 
-### Gratitude
+## Gratitude
 
 Sasha made a great impression on me. Speaking with him, even without understanding every word, I can feel the wisdom in his eyes. Some of his traits, which I alluded to earlier, are incredible gratitude, peaceful temperament, warm and powerful communication, keen curiosity, empathy, and love for others. I believe these drive him to continue to learn and serve, making him even stronger in spirit than he is physically.
 

@@ -37,7 +37,7 @@ I posted two messages on the [Couchsurfing](https://www.couchsurfing.org/) Group
   <figcaption>David, one of my new Couchsurfing friends took this shot of Lidiya and I climbing at a spot called Solius.</figcaption>
 </figure>
 
-### Methodology: What worked best and what was binned
+## Methodology: What worked best and what was binned
 
 I analysed my Spanish learning time in the frame of [Tim Ferriss](http://www.fourhourworkweek.com/blog)’ acronyms **DiSSS** <sup><a href="#disss" id="footnote10">&#8225;</a></sup>; Deconstruction, Selection, Sequencing, Stakes and **CaFE**; Compression, Frequency, Encoding. In an ocean of learning Spanish material, Selection was crucial.
 
@@ -45,11 +45,11 @@ I analysed my Spanish learning time in the frame of [Tim Ferriss](http://www.fou
 
 Unexpectedly, Selection also very importantly correlates to Frequency, in the sense of how frequently I *could* actively learn, as opposed to how frequently I *should* learn. I paid attention to reducing friction by selecting activities I enjoyed and in some cases the times I most enjoyed them. That meant a higher frequency of learning activities resulting from optimised desire and motivation.
 
-#### Selection: The 20% of activities to get 80% of my desired results
+### Selection: The 20% of activities to get 80% of my desired results
 
 My three chosen learning methods in order of results-based priority are:
 
-##### 1. [The Michel Thomas Spanish Foundation](http://www.amazon.co.uk/gp/product/1444133055/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1444133055&linkCode=as2&tag=mylifethougan-21) Course
+#### 1. [The Michel Thomas Spanish Foundation](http://www.amazon.co.uk/gp/product/1444133055/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1444133055&linkCode=as2&tag=mylifethougan-21) Course
 
 It’s difficult to overstate how much I love this course. I looked forward to listening to it, every second seems valuable and memory retention—without revising or taking notes—is incredible.
 
@@ -61,7 +61,7 @@ It was easy on several occasions to repeat after an answer was given, to mimic t
 
 That meant I was walking about the streets of Girona with my iPhone in hand, held out in front of me, finger hovering over the pause button, one earphone in—so I could monitor my own volume—and either mouthing silently or replying in a very low voice to myself. Slight crazy person carry-on, but effective language learning.
 
-##### 2. In person conversation
+#### 2. In person conversation
 
 I arranged six meetings with Couchsurfers my second week of learning, which was also my second week in Catalonia. These meetings were great, both to practice and meet people. I now meet weekly with one person to practice Spanish and English; have two new climbing partners; and a few others I’ve met up with several times since.
 
@@ -72,7 +72,7 @@ These meetups offered the greatest opportunity to actually speak.
   <figcaption>(I’m on the left) I picked up a Spanish guitar since moving to Girona and, again thanks to Couchsurfing, <a href="http://instagram.com/p/e3CQ3DmD-1/" title="See the Instagram image">played a couple of songs with two Couchsurfers</a> at a local bar.</figcaption>
 </figure>
 
-##### 3. Duolingo
+#### 3. Duolingo
 
 I was skeptical of Duolingo’s effectiveness. It seems to easy, too much like a game, too good to be true. I decided the catch was that it’s a lighthearted Spanish learning supplement, not a serious learning tool. Really though, it’s powerful.
 
@@ -80,20 +80,19 @@ I call their teaching method “deceptive learning”. They trick you by making 
 
 <aside class="digression" id="duolingo-competition"><p><b>&sect;</b> I received an email from Duolingo informing me that one of Lidiya’s classmates had overtaken me on their points system. My response was unexpectedly competitive! At the time of writing, I’m back on top, although I expect this post to provoke a retaliation. It demonstrates another [gamification](http://en.wikipedia.org/wiki/Gamification "Gamification on Wikipedia") technique masterfully executed by the Duolingo team. <a class="return-to-text" href="#footnote11" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
-
-#### Stakes: The benefits of failure consequence
+### Stakes: The benefits of failure consequence
 
 Writing the first blog post, I set stakes for myself. I could fail publically. In addition to that the one month timeline was very motivating. At the start of week two I went a little Couchsurfing-meeting-organising mad, realising that if I didn’t pick up the pace, I would fall short of my target.
 
 The drive and deadline also brought consistency. I had to make excellent use my time and pack in as much as I could.
 
-### Conclusion
+## Conclusion
 
 I rate the experiment as a success. I have just over three months to continue to improve and enjoy the country and language and this was a great way to get things moving quickly. I’m looking forward to re-applying my findings for the next language in the next country.
 
 <div class="fleuron">&#9753;</div>
 
-### Appendix: My Comprehensive Spanish Experimentation List
+## Appendix: My Comprehensive Spanish Experimentation List
 
 The following is an appendix of other ways I tried to learn that were cut from my core Selection.
 

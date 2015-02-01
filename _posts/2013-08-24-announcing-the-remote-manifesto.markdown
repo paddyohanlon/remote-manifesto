@@ -13,7 +13,7 @@ location: Kaliningrad, Russia
 
 <p>All the moving about means I have the remote working thing down fairly well. Choosing the title of this blog means I can justify introducing travel anecdotes, and share my remote working experiences, along with design musings.</p>
 
-<h3>Colophon</h3>
+<h2>Colophon</h2>
 
 <p>The site is powered by <a href="http://jekyllrb.com/">Jekyll</a> and typeset in <a href="https://typekit.com/fonts/warnock-pro">Warnock Pro</a>, served by <a href="https://typekit.com/">Typekit</a>. The typeface was designed by <a href="http://typophile.com/node/16060?">Robert Slimbach</a>.</p>
 

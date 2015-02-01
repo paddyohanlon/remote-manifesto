@@ -12,38 +12,38 @@ Just off the plane in Girona and inspired by the learning method in [Tim Ferris�
 1. Understanding roughly 50% of spoken words in conversation—which is an intuitive estimate, from my experience with Bulgarian, of the amount I need to understand in order to make sense of what someone is saying. For an oversimplified example, if someone says “Hey, do you feel like having some coffee?”, it’s probably necessary to only understand the word “coffee”—in many languages a recognisable variation of “coffee” or “cafe”—and the intonation of the sentence—indicating a question—to understand and reply with a simple “yes” or “no”.
 2. Being able to utlise what I know to express myself in daily conversation. I define “daily conversation” by things like, ordering drinks or food; asking for directions or recommendations; talking about what someone did today yesterday, last week; talking about interests and travel. I draw the line at philosophy, politics and spirituality. Topics which usually require clear articulation and a subject specific vocabulary.
 
-### The Method
+## The Method
 
 Tim Ferriss breaks down his learning process with two acronyms.
 
-#### DiSSS
+### DiSSS
 
-##### D for Deconstruction
+#### D for Deconstruction
 “What are the minimal learning units, the LEGO blocks, I should be learning with?”
 
-##### S for Selection
+#### S for Selection
 “Which 20% of the blocks should I focus on for 80% or more of the outcome I want?”
 
-##### S for Sequencing
+#### S for Sequencing
 “In what order should I learn the blocks?”
 
-##### S for Stakes
+#### S for Stakes
 “How do I set up stakes to create real consequences and guarantee I follow the program?”
 
-#### CaFE (noted by Tim as optional)
+### CaFE (noted by Tim as optional)
 
-##### C for Compression
+#### C for Compression
 “Can I encapsulate the most important 20% an easily graspable one-pager?”
 
-##### F for Frequency
+#### F for Frequency
 “How frequently should I practice? Can I cram, and what should my schedule look like? What growing pains can I predict? What is the minimum effective dose (MED) for volume?”
 
-##### E for Encoding
+#### E for Encoding
 “How do I anchor the new material to what I already know for rapid recall? Acronyms like DiSSS and CaFE are examples of encoding.”
 
-### The Plan
+## The Plan
 
-#### Deconstruction
+### Deconstruction
 
 My chosen Spanish LEGO blocks are as follows:
 
@@ -62,7 +62,7 @@ Another key helper in my experiment, is that I’m actually in the country where
 
 <aside class="tangent" id="catalan"><p><b>&#8225;</b> Girona is in Catalonia, so the first language is Catalan. Although I’m focusing on Spanish, I decided to learn the very basics of Catalan, so, as a strategy for politeness, I can open and close conversation in Catalan, and use Spanish in the middle. <a class="return-to-text" href="#footnote8" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
-#### Selection
+### Selection
 
 Analysing those blocks for the best 20% to give me 80% of the results I’m looking for, my selection is:
 
@@ -72,28 +72,28 @@ Analysing those blocks for the best 20% to give me 80% of the results I’m look
 
 In Selection, I’m also avoiding learning how to say the same thing in multiple ways, or learning uncommon vocab, or multiple synonyms—I went to one Slovenian lesson in Ljubljana, delivered by an academic who thought two or three ways of saying each sentence. I was frustrated by the waste of memory, a rich vocabulary and poetic prose can come later. The energy and time taken to commit a synonym to memory can be better used learning a something new.
 
-#### Sequencing
+### Sequencing
 I will complete the audio course, with intermittent Duolingo use, before arranging a language exchange meetup to have a good basis to make the most of each.
 
-#### Stakes
+### Stakes
 The stakes? Public declaration and potential resulting embarrassment via this blog post.
 
-#### Compression
+### Compression
 I’ve yet to think of a useful way to compress key material onto a one-pager. Anki is possibly a form of this as I bundle new vocab and phrases into new decks for easy practice.
 
-#### Frequency
+### Frequency
 
 Michel Thomas’s course requires neither homework, review nor memorising. In fact he states doing any of that will hinder learning. I find I can listen to the course for hours on end without significant drop off in retention. I also noticed it’s crucial I repeat out loud before the other speaker, on the audio track, repeats after the teacher. My retention seems to drop dramatically without doing so.
 
 Language exchanges I will try to arrange twice a week after the first week. From experience with Slovenian, I need to limit the volume of new learning in these sessions and schedule time to review my notes, add new material to Anki and practice. It seems a Michel Thomas-like method of conducting the exchanges, where the review and note taking isn’t necessary would be ideal and much more time effective. I’ll study these to see if a system can be introduced.
 
-#### Encoding
+### Encoding
 
 I’ve successfully used something along the lines of the [Link Word](http://en.wikipedia.org/wiki/Linkword) method, where I create associations with words and use visualisation to help remember. For example, today I learnt the Spanish word for apple, “manzana”. I broke that down to man-zan-a, and imagined Billy Zane holding an apple over his head and saying to himself, “Billy ZANe is the MAN!”. I also imagine myself in the visualisation looking at him, thinking that’s pretty weird—a Michel Thomas tip. 
 
 That’s not the most eloquent example—the words need to be reversed MAN ZAN A, and ZAN is pronounced differently than Zane—but it’s effective in that, while I’m committing the word to memory, when I think of an apple, I imagine that crazy visualisation and extract the syllables.
 
-### The Starting Line
+## The Starting Line
 
 I speak some French, also in the Romance language family, like Spanish, so many words are familiar to me. There are also thousands similar words in English and Spanish. I know a few words from Spanish friends too. My vocabulary at the moment is as follows, plus a few more words that probably haven’t come to mind:
 

@@ -87,11 +87,11 @@ Self-doubt and a cloudy picture of our hero’s true destiny plague him as we jo
 </ul>
 
 
-### Outro
+## Outro
 
 Our hero over came personal limitations and ridiculous expectations, realising that knowing JavaScript, or to code in general, is more of a journey than a destination.
 
-### Personal conclusions on learning to code
+## Personal conclusions on learning to code
 
 * Be brave and break stuff.
 * Pick a book or course, get a recommendation, and do that. Avoid paralysis by analysis, the best learning is in doing.

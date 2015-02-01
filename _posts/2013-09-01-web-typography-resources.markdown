@@ -9,7 +9,7 @@ location: Kaliningrad, Russia
 
 <p>This is a collection of web typography resources I’ve found useful, some of which I return to regularly. I gathered them from Evernote, bookmarks, bookshelf, and brain for my own convenience and ongoing addition.</p>
 
-<h3>Articles</h3>
+<h2>Articles</h2>
 
 <ul>
 <li><a href="http://markboulton.co.uk/journal/five-simple-steps-to-better-typography">Five simple steps to better typography</a>, by Mark Boulton</li>
@@ -23,7 +23,7 @@ location: Kaliningrad, Russia
 
 <aside class="digression" id="typecast-vertical-rhythm"><p><b>&#8224;</b><a href="http://typecast.com/">Typecast</a> makes vertical rhythm so much easier now. They wrote a related post, <a href="http://typecast.com/blog/4-simple-steps-to-vertical-rhythm">4 Simple Steps to Vertical Rhythm</a>. <a class="return-to-text" href="#footnote3" title="Continue reading the main text"><b>Continue reading the main text </b>&#8629;</a></p></aside>
 
-<h3>Books</h3>
+<h2>Books</h2>
 
 <ul>
 <li><a href="http://www.amazon.co.uk/gp/product/1568989695/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=1568989695&amp;linkCode=as2&amp;tag=mylifethougan-21">Thinking with Type</a>, by Ellen Lupton</li>
@@ -31,13 +31,13 @@ location: Kaliningrad, Russia
 <li><a href="http://www.fivesimplesteps.com/products/combining-typefaces">Combining Typefaces</a>, by Tim Brown</li>
 </ul>
 
-<h3>Films</h3>
+<h2>Films</h2>
 
 <ul>
 <li><a href="http://www.helveticafilm.com/">Helvetica</a></li>
 </ul>
 
-<h3>JavaScript Tools &amp; Plugins</h3>
+<h2>JavaScript Tools &amp; Plugins</h2>
 
 <ul>
 <li><a href="http://jbrewer.github.io/Responsive-Measure/">Responsive Measure</a></li>
