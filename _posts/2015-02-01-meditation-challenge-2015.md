@@ -26,7 +26,7 @@ It's February 1st now and I've meditated for 31 straight days.
 
 ## Benefits so Far
 
-I've noticed a few benefits from long stretches of consistent meditation. One, is being able to trace the root of a distraction.
+I've noticed a few benefits from long stretches of consistent meditation. One is being able to trace the root of a distraction.
 
 For example, I caught myself thinking about Donald Trump while meditating the other day. I'm not a fan of that guy at all and nothing in my life is connected to him at the moment. So my initial thought was "Why the heck am I thinking about Donald Trump".
 
