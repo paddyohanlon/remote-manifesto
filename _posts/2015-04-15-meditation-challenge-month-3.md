@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Meditation Challenge: Month 2"
-description: Year long meditation challenge. Month 2 update.
+title:  "Meditation Challenge: Month 3"
+description: My one year Headspace meditation challenge. Here's update number three.
 categories: articles
 tags: meditation
 location: Valeggio Sul Mincio, Verona, Italy
