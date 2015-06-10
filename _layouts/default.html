@@ -4,8 +4,32 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=yes">
     <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{page.description}}">{% endif %}
+
+    <!-- Social Media Meta -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@paddy">
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <!-- <meta property="fb:admins" content="1046332154" />
+    <meta property="fb:app_id" content="890556024304383" /> -->
+    <meta property="og:type" content="article"/>
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta name="twitter:image:src" content="http://remotemanifesto.com{{ page.featured_image }}" />
+    <meta property="og:image" content="http://remotemanifesto.com{{ page.featured_image }}"/>
+    <meta property="og:image:width" content="1500"/>
+    <meta property="og:image:height" content="1050"/>
+    <meta property="og:locale" content="en_gb" />
+
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    {% endif %}
+
     <link rel="canonical" href="http://remotemanifesto.com{{ page.url | replace:'index.html','' }}" />
+    <meta name="twitter:url" content="http://remotemanifesto.com{{ page.url | replace:'index.html','' }}" />
+    <meta property="og:url" content="http://remotemanifesto.com{{ page.url | replace:'index.html','' }}"/>
+
     <link rel="stylesheet" href="/css/main.css">
 
     {% if site.posts.first.style %}
